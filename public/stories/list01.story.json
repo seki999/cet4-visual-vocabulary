@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "id": "list01-story",
+  "listId": "list01",
+  "title": "The Coastal Farm and Harvest Pitch",
+  "titleZh": "海湾农场与丰收推介会",
+  "targetWordIds": [
+    "v000001",
+    "v000002",
+    "v000003",
+    "v000004",
+    "v000005",
+    "v000006",
+    "v000007",
+    "v000008",
+    "v000009",
+    "v000010",
+    "v000011",
+    "v000012",
+    "v000013",
+    "v000014",
+    "v000015",
+    "v000016",
+    "v000017",
+    "v000018",
+    "v000019",
+    "v000020",
+    "v000021",
+    "v000022",
+    "v000023",
+    "v000024",
+    "v000025",
+    "v000026",
+    "v000027",
+    "v000028",
+    "v000029",
+    "v000030",
+    "v000031",
+    "v000032",
+    "v000033",
+    "v000034",
+    "v000035",
+    "v000036",
+    "v000037",
+    "v000038",
+    "v000039",
+    "v000040",
+    "v000041",
+    "v000042",
+    "v000043",
+    "v000044",
+    "v000045",
+    "v000046",
+    "v000047",
+    "v000048",
+    "v000049",
+    "v000050"
+  ],
+  "characters": [
+    {
+      "id": "anna",
+      "name": "Anna · 农场项目负责人",
+      "voiceGender": "female",
+      "preferredVoice": null
+    },
+    {
+      "id": "ben",
+      "name": "Ben · 海洋与物流顾问",
+      "voiceGender": "male",
+      "preferredVoice": null
+    },
+    {
+      "id": "leo",
+      "name": "Leo · 主厨与食材采购员",
+      "voiceGender": "male",
+      "preferredVoice": null
+    },
+    {
+      "id": "maya",
+      "name": "Maya · 社区研究员",
+      "voiceGender": "female",
+      "preferredVoice": null
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene01",
+      "title": "Arrival at the Coastal Farm",
+      "titleZh": "抵达海湾农场",
+      "image": "images/stories/list01/scene01.webp",
+      "lines": [
+        {
+          "id": "line001",
+          "speakerId": "anna",
+          "en": "We must strive to improve our skills continuously as we prepare a tonne of fresh produce at this dairy farm.",
+          "zh": "当我们在这个奶牛场准备一公吨新鲜农产品时，我们必须努力不断提高自己的技能。",
+          "targetWordIds": ["v000001", "v000002", "v000004"],
+          "image": null
+        },
+        {
+          "id": "line002",
+          "speakerId": "ben",
+          "en": "This coastal custom is peculiar to the region where families have farmed the land near the calm bay for generations.",
+          "zh": "这种海滨习俗是该地区特有的，这里的家庭世代在平静的海湾旁耕种土地。",
+          "targetWordIds": ["v000003", "v000005", "v000006"],
+          "image": null
+        },
+        {
+          "id": "line003",
+          "speakerId": "leo",
+          "en": "The delivery truck is already unloading goods in the loading bay after taking the expressway from the city.",
+          "zh": "送货卡车从市区走高速公路过来后，已经在装卸区卸货了。",
+          "targetWordIds": ["v000007", "v000036"],
+          "image": null
+        },
+        {
+          "id": "line004",
+          "speakerId": "maya",
+          "en": "Ships cross the distant gulf for trade, yet there is still a clear gulf between the two generations on how to modernize.",
+          "zh": "船只穿过远处的海湾进行贸易，但两代人之间在如何现代化的问题上仍存在明显的观念差距。",
+          "targetWordIds": ["v000008", "v000009"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "scene02",
+      "title": "Greenhouse and Aquaculture Care",
+      "titleZh": "温室与水产养殖养护",
+      "image": "images/stories/list01/scene02.webp",
+      "lines": [
+        {
+          "id": "line005",
+          "speakerId": "anna",
+          "en": "Instead of harsh insect spray, the gardener sprayed the plants with clean water this morning.",
+          "zh": "园丁今天早上没有使用刺鼻的杀虫喷雾，而是给植物喷了清水。",
+          "targetWordIds": ["v000010", "v000011"],
+          "image": null
+        },
+        {
+          "id": "line006",
+          "speakerId": "ben",
+          "en": "In our aquaculture industry tanks, do not submerge the sensor completely in water while feeding the salmon.",
+          "zh": "在我们的水产养殖业水池旁，喂三文鱼时不要把传感器完全浸入水中。",
+          "targetWordIds": ["v000012", "v000037", "v000038"],
+          "image": null
+        },
+        {
+          "id": "line007",
+          "speakerId": "leo",
+          "en": "The old fisherman used small fish as bait and showed the students how to bait a hook patiently.",
+          "zh": "老渔民用小鱼作诱饵，并耐心地向学生们演示如何给鱼钩装饵。",
+          "targetWordIds": ["v000013", "v000014"],
+          "image": null
+        },
+        {
+          "id": "line008",
+          "speakerId": "maya",
+          "en": "At the local museum, an old artillery shell sits beside a fossilized egg shell found in the Earth's crust.",
+          "zh": "在当地博物馆里，一枚旧炮弹陈列在从地壳中发现的蛋壳化石旁边。",
+          "targetWordIds": ["v000015", "v000016", "v000024"],
+          "image": null
+        },
+        {
+          "id": "line009",
+          "speakerId": "anna",
+          "en": "Not even a grain of sand entered the hollow metal tube that protects our underwater cable.",
+          "zh": "连一粒沙都没有进到保护水下电缆的空心金属管里。",
+          "targetWordIds": ["v000028", "v000043"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "scene03",
+      "title": "Busy Harvest Kitchen",
+      "titleZh": "忙碌的丰收厨房",
+      "image": "images/stories/list01/scene03.webp",
+      "lines": [
+        {
+          "id": "line010",
+          "speakerId": "leo",
+          "en": "While shelling peas for the green peas soup, do not simply imitate someone else's cooking style.",
+          "zh": "在为青豌豆汤剥豌豆时，不要一味模仿别人的烹饪风格。",
+          "targetWordIds": ["v000017", "v000018", "v000031"],
+          "image": null
+        },
+        {
+          "id": "line011",
+          "speakerId": "maya",
+          "en": "We served breakfast cereal with milk and warned hikers that wild berries should not be eaten casually.",
+          "zh": "我们准备了配牛奶的早餐麦片，并提醒徒步者野生浆果不能随便吃。",
+          "targetWordIds": ["v000019", "v000020"],
+          "image": null
+        },
+        {
+          "id": "line012",
+          "speakerId": "anna",
+          "en": "This knife is too dull to cut meat, so sharpen it before you chop the onions and prepare the grilled lamb chop.",
+          "zh": "这把刀太钝了切不动肉，所以请先磨刀，再切洋葱并准备烤羊排。",
+          "targetWordIds": ["v000021", "v000022", "v000042"],
+          "image": null
+        },
+        {
+          "id": "line013",
+          "speakerId": "ben",
+          "en": "This loaf of bread is baked from whole grain and wheat flour, so even the bread crust is crispy.",
+          "zh": "这一条面包是用全谷物和小麦面粉烤制的，因此连面包皮都很酥脆。",
+          "targetWordIds": ["v000023", "v000025", "v000027", "v000030"],
+          "image": null
+        },
+        {
+          "id": "line014",
+          "speakerId": "leo",
+          "en": "For dinner, we season the roast lamb and grilled sausage with two cloves of garlic, black pepper, and rice vinegar.",
+          "zh": "晚餐时，我们用两瓣大蒜、黑胡椒和米醋为烤羊肉与烤香肠调味。",
+          "targetWordIds": ["v000026", "v000029", "v000032", "v000033", "v000034"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "scene04",
+      "title": "Resolving the Community Clash",
+      "titleZh": "化解社区分歧",
+      "image": "images/stories/list01/scene04.webp",
+      "lines": [
+        {
+          "id": "line015",
+          "speakerId": "maya",
+          "en": "I overheard their conversation after the dull lecture, and everyone is tired of hollow promises.",
+          "zh": "在这场乏味的讲座结束后，我无意中听到了他们的谈话，大家已经厌倦了空洞的承诺。",
+          "targetWordIds": ["v000041", "v000044", "v000045"],
+          "image": null
+        },
+        {
+          "id": "line016",
+          "speakerId": "anna",
+          "en": "Although the two sides clashed over budget issues and the bright banner clashes with the wallpaper, our manager remains sympathetic to everyone's difficulties.",
+          "zh": "尽管双方在预算问题上发生了冲突，而且鲜艳的横幅颜色和墙纸不太协调，但经理仍然很体谅大家的困难。",
+          "targetWordIds": ["v000035", "v000039", "v000040"],
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": "scene05",
+      "title": "Celebration on the Football Pitch",
+      "titleZh": "足球场上的庆典",
+      "image": "images/stories/list01/scene05.webp",
+      "lines": [
+        {
+          "id": "line017",
+          "speakerId": "ben",
+          "en": "Next to the football pitch, she pitched a new idea to management with a persuasive sales pitch.",
+          "zh": "在足球场旁，她用很有说服力的销售推介向管理层推销了一个新想法。",
+          "targetWordIds": ["v000046", "v000047", "v000048"],
+          "image": null
+        },
+        {
+          "id": "line018",
+          "speakerId": "leo",
+          "en": "Far from the roar of traffic, everyone roared with laughter as the harvest festival began.",
+          "zh": "远离交通轰鸣声，随着丰收节拉开帷幕，大家都放声大笑起来。",
+          "targetWordIds": ["v000049", "v000050"],
+          "image": null
+        }
+      ]
+    }
+  ]
+}

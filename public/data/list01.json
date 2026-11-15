@@ -1,0 +1,1107 @@
+{
+  "id": "list01",
+  "title": "List 01",
+  "description": "CET-4 Vocabulary",
+  "items": [
+    {
+      "word": "strive",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/straɪv/",
+        "us": "/straɪv/"
+      },
+      "meaning": "努力；奋斗",
+      "collocation": {
+        "en": "strive to do",
+        "zh": "努力做……"
+      },
+      "example": {
+        "en": "We should strive to improve our skills continuously.",
+        "zh": "我们应该努力不断提高自己的技能。"
+      },
+      "id": "v000001",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "79ae6bec988ecb5d1d6ae690b9c7c18ada4da308fe15dcb12a61990e2f6bc687"
+    },
+    {
+      "word": "tonne",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/tʌn/",
+        "us": "/tʌn/"
+      },
+      "meaning": "公吨（1000千克）",
+      "collocation": {
+        "en": "a tonne of",
+        "zh": "一公吨……"
+      },
+      "example": {
+        "en": "The truck can carry a tonne of goods.",
+        "zh": "这辆卡车可以运载一公吨货物。"
+      },
+      "id": "v000002",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c0b3f4a9db936eeb1e155859f39834a31ea7ea4eee1309067eb5d24821fda527"
+    },
+    {
+      "word": "peculiar",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/pɪˈkjuːliə(r)/",
+        "us": "/pɪˈkjuːliər/"
+      },
+      "meaning": "奇怪的；独特的",
+      "collocation": {
+        "en": "peculiar to",
+        "zh": "为……所特有"
+      },
+      "example": {
+        "en": "This custom is peculiar to the region.",
+        "zh": "这种习俗是该地区特有的。"
+      },
+      "id": "v000003",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8417d8d74ebfd1ea82916f04b9cfecb4a319dcbb1711b3930d30e8b23f59b479"
+    },
+    {
+      "word": "farm",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/fɑːm/",
+        "us": "/fɑːrm/"
+      },
+      "meaning": "农场",
+      "collocation": {
+        "en": "dairy farm",
+        "zh": "奶牛场"
+      },
+      "example": {
+        "en": "The dairy farm produces a large amount of milk every day.",
+        "zh": "这家奶牛场每天生产大量牛奶。"
+      },
+      "id": "v000004",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ea61e2e35e12373969be3482dcb5d0170bd87f475c868406a361ec58a0df530c"
+    },
+    {
+      "word": "farm",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/fɑːm/",
+        "us": "/fɑːrm/"
+      },
+      "meaning": "耕种；养殖",
+      "collocation": {
+        "en": "farm the land",
+        "zh": "耕种土地"
+      },
+      "example": {
+        "en": "The family has farmed the land for generations.",
+        "zh": "这个家庭世代耕种这片土地。"
+      },
+      "id": "v000005",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "28fde3b26d7b50a64888cd982a77b1ee7ac991408fd31f514f1d05fd6fb28a73"
+    },
+    {
+      "word": "bay",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/beɪ/",
+        "us": "/beɪ/"
+      },
+      "meaning": "海湾",
+      "collocation": {
+        "en": "Tokyo Bay",
+        "zh": "东京湾"
+      },
+      "example": {
+        "en": "The ship is entering Tokyo Bay.",
+        "zh": "这艘船正在驶入东京湾。"
+      },
+      "id": "v000006",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8a42ed1f9d6fdd4aece115ab9840fd6bd763b9288cd1b63226cc4607653622f8"
+    },
+    {
+      "word": "bay",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/beɪ/",
+        "us": "/beɪ/"
+      },
+      "meaning": "隔间；机位；装卸区",
+      "collocation": {
+        "en": "loading bay",
+        "zh": "装卸区"
+      },
+      "example": {
+        "en": "The truck is unloading goods in the loading bay.",
+        "zh": "卡车正在装卸区卸货。"
+      },
+      "id": "v000007",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6d5c07b82a9937002e26e21e93eb1a9637928aa6b4730e5f5ce36dba259db377"
+    },
+    {
+      "word": "gulf",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɡʌlf/",
+        "us": "/ɡʌlf/"
+      },
+      "meaning": "海湾",
+      "collocation": {
+        "en": "Persian Gulf",
+        "zh": "波斯湾"
+      },
+      "example": {
+        "en": "Large amounts of oil are transported through the Persian Gulf.",
+        "zh": "大量石油经由波斯湾运输。"
+      },
+      "id": "v000008",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f9e210e62a4b86b6422fdc28802dd1df9199ef48dda6f8e273625eb6907827c6"
+    },
+    {
+      "word": "gulf",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɡʌlf/",
+        "us": "/ɡʌlf/"
+      },
+      "meaning": "巨大差距；鸿沟",
+      "collocation": {
+        "en": "a gulf between",
+        "zh": "……之间的巨大差距"
+      },
+      "example": {
+        "en": "There is a clear gulf between the two generations.",
+        "zh": "两代人之间存在明显的观念差距。"
+      },
+      "id": "v000009",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a6359865e7d5427c8acbbbc6199fa1c88e60648819f35f33c30e43424bf0d58a"
+    },
+    {
+      "word": "spray",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/spreɪ/",
+        "us": "/spreɪ/"
+      },
+      "meaning": "喷雾；喷剂",
+      "collocation": {
+        "en": "insect spray",
+        "zh": "杀虫喷雾"
+      },
+      "example": {
+        "en": "He used insect spray in the room.",
+        "zh": "他用杀虫喷雾处理了房间。"
+      },
+      "id": "v000010",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2036107e72f765aaf4f203c0c17e3fa893e869390bf74ed582484aeb2c706462"
+    },
+    {
+      "word": "spray",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/spreɪ/",
+        "us": "/spreɪ/"
+      },
+      "meaning": "喷洒；喷射",
+      "collocation": {
+        "en": "spray with",
+        "zh": "用……喷洒"
+      },
+      "example": {
+        "en": "The gardener sprayed the plants with water.",
+        "zh": "园丁给植物喷了水。"
+      },
+      "id": "v000011",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e23b3ce44cae7317d75ee181a7198aae4cec6059bfd00e9b53bf3219d70c9ecd"
+    },
+    {
+      "word": "submerge",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/səbˈmɜːdʒ/",
+        "us": "/səbˈmɜːrdʒ/"
+      },
+      "meaning": "浸没；潜入水中",
+      "collocation": {
+        "en": "submerge in water",
+        "zh": "浸入水中"
+      },
+      "example": {
+        "en": "Do not submerge the device completely in water.",
+        "zh": "不要把这个设备完全浸入水中。"
+      },
+      "id": "v000012",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "51a7952c5199fab5d160af7dc856ff6880020378913e32899649a192a78d2c23"
+    },
+    {
+      "word": "bait",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/beɪt/",
+        "us": "/beɪt/"
+      },
+      "meaning": "诱饵；鱼饵",
+      "collocation": {
+        "en": "use as bait",
+        "zh": "用作诱饵"
+      },
+      "example": {
+        "en": "The fisherman used small fish as bait.",
+        "zh": "渔民用小鱼作诱饵。"
+      },
+      "id": "v000013",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bf03e1f5e10368b62c50f3b7ec84ed4d6cc21e6965dd99848a02f8c75791a660"
+    },
+    {
+      "word": "bait",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/beɪt/",
+        "us": "/beɪt/"
+      },
+      "meaning": "装饵；故意激怒",
+      "collocation": {
+        "en": "bait a hook",
+        "zh": "给鱼钩装饵"
+      },
+      "example": {
+        "en": "He baited the hook with a worm.",
+        "zh": "他把虫子装到鱼钩上。"
+      },
+      "id": "v000014",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "78496d7035ba8a54cc0f83252383fdd3931b4a8c16a9e3936fa95f8afe57c099"
+    },
+    {
+      "word": "shell",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ʃel/",
+        "us": "/ʃel/"
+      },
+      "meaning": "壳；外壳",
+      "collocation": {
+        "en": "egg shell",
+        "zh": "蛋壳"
+      },
+      "example": {
+        "en": "The egg shell fell onto the table.",
+        "zh": "蛋壳掉在了桌子上。"
+      },
+      "id": "v000015",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e650725f12766d4b8b6c7ee3449be108f90775c3d32547e8046d74975edbf3ee"
+    },
+    {
+      "word": "shell",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ʃel/",
+        "us": "/ʃel/"
+      },
+      "meaning": "炮弹",
+      "collocation": {
+        "en": "artillery shell",
+        "zh": "炮弹"
+      },
+      "example": {
+        "en": "The museum displays an old artillery shell.",
+        "zh": "博物馆展出了一枚旧炮弹。"
+      },
+      "id": "v000016",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "103c9ad04f689db07291914d84d9fa3361efed3da62f6c5d3795a4eab2f98d31"
+    },
+    {
+      "word": "shell",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ʃel/",
+        "us": "/ʃel/"
+      },
+      "meaning": "去壳；炮击",
+      "collocation": {
+        "en": "shell peas",
+        "zh": "剥豌豆"
+      },
+      "example": {
+        "en": "She is shelling peas in the kitchen.",
+        "zh": "她正在厨房里剥豌豆。"
+      },
+      "id": "v000017",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f90987ac718e4eabd2348f3d2793a16869322e94f50b111b71cca2190ffaf9eb"
+    },
+    {
+      "word": "imitate",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈɪmɪteɪt/",
+        "us": "/ˈɪmɪteɪt/"
+      },
+      "meaning": "模仿；仿效",
+      "collocation": {
+        "en": "imitate someone's style",
+        "zh": "模仿某人的风格"
+      },
+      "example": {
+        "en": "Do not simply imitate someone else's writing style.",
+        "zh": "不要一味模仿别人的写作风格。"
+      },
+      "id": "v000018",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "dac3a273bacfd6aadf55aa76316c3c8a4c75487ff0df1c9ddead55ea4e40cf0d"
+    },
+    {
+      "word": "berry",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈberi/",
+        "us": "/ˈberi/"
+      },
+      "meaning": "浆果",
+      "collocation": {
+        "en": "wild berries",
+        "zh": "野生浆果"
+      },
+      "example": {
+        "en": "These wild berries should not be eaten casually.",
+        "zh": "这些野生浆果不能随便吃。"
+      },
+      "id": "v000019",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "26ce3fa664b5920f2de88a1aa598fca0959ee38d62604fd017ee114b729545da"
+    },
+    {
+      "word": "cereal",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsɪəriəl/",
+        "us": "/ˈsɪriəl/"
+      },
+      "meaning": "谷类食品；早餐麦片",
+      "collocation": {
+        "en": "breakfast cereal",
+        "zh": "早餐麦片"
+      },
+      "example": {
+        "en": "I usually have cereal and milk for breakfast.",
+        "zh": "我早餐通常吃麦片和牛奶。"
+      },
+      "id": "v000020",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4019665abba77083215e431014f0df8428caf8358858f0ae5d551a37441bbc51"
+    },
+    {
+      "word": "chop",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/tʃɒp/",
+        "us": "/tʃɑːp/"
+      },
+      "meaning": "切碎；砍",
+      "collocation": {
+        "en": "chop vegetables",
+        "zh": "切蔬菜"
+      },
+      "example": {
+        "en": "Please chop the onions and carrots.",
+        "zh": "请把洋葱和胡萝卜切碎。"
+      },
+      "id": "v000021",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "821d28d61b87c6af1f174d32f0a8ffa693abbdf708295780ebd6c5aa5ad2ef93"
+    },
+    {
+      "word": "chop",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/tʃɒp/",
+        "us": "/tʃɑːp/"
+      },
+      "meaning": "排骨；肉排",
+      "collocation": {
+        "en": "lamb chop",
+        "zh": "羊排"
+      },
+      "example": {
+        "en": "The restaurant's grilled lamb chops are very popular.",
+        "zh": "这家餐厅的烤羊排很受欢迎。"
+      },
+      "id": "v000022",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7fb85bd89b51cf91efc5cd9e34d96a9f9e8a3061459022a6531e857f5db36e6a"
+    },
+    {
+      "word": "crust",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/krʌst/",
+        "us": "/krʌst/"
+      },
+      "meaning": "面包皮；外壳",
+      "collocation": {
+        "en": "bread crust",
+        "zh": "面包皮"
+      },
+      "example": {
+        "en": "He does not like eating bread crust.",
+        "zh": "他不喜欢吃面包皮。"
+      },
+      "id": "v000023",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b18628817b94ecb83e42246b0569cfe89211d2d702d69ef9f5c1f0e72e45dbe0"
+    },
+    {
+      "word": "crust",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/krʌst/",
+        "us": "/krʌst/"
+      },
+      "meaning": "地壳",
+      "collocation": {
+        "en": "Earth's crust",
+        "zh": "地壳"
+      },
+      "example": {
+        "en": "Earthquakes occur within the Earth's crust.",
+        "zh": "地震发生在地壳内部。"
+      },
+      "id": "v000024",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "59ea905216ba90238d78a50e9f552256f048b1a8f81c4f0ccd507312cbcd019d"
+    },
+    {
+      "word": "flour",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈflaʊə(r)/",
+        "us": "/ˈflaʊər/"
+      },
+      "meaning": "面粉",
+      "collocation": {
+        "en": "wheat flour",
+        "zh": "小麦面粉"
+      },
+      "example": {
+        "en": "This bread is made from wheat flour.",
+        "zh": "这块面包是用小麦面粉做的。"
+      },
+      "id": "v000025",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "599495b79ca77bb3e2bcb1d7ecc097479b4fb962bbe8b85fcc6c9d143ca8e9e1"
+    },
+    {
+      "word": "garlic",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈɡɑːlɪk/",
+        "us": "/ˈɡɑːrlɪk/"
+      },
+      "meaning": "大蒜",
+      "collocation": {
+        "en": "clove of garlic",
+        "zh": "一瓣大蒜"
+      },
+      "example": {
+        "en": "Please add two cloves of garlic to the soup.",
+        "zh": "请在汤里加两瓣大蒜。"
+      },
+      "id": "v000026",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ebf0636c298359aade136168488cb12c4f2924664400d3a6063f15a978be79af"
+    },
+    {
+      "word": "grain",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɡreɪn/",
+        "us": "/ɡreɪn/"
+      },
+      "meaning": "谷物；粮食",
+      "collocation": {
+        "en": "whole grain",
+        "zh": "全谷物"
+      },
+      "example": {
+        "en": "Whole grains are rich in dietary fiber.",
+        "zh": "全谷物含有丰富的膳食纤维。"
+      },
+      "id": "v000027",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "72d10b54318c9945be4c53b72048777dc7cab1573dbc3dac6d192297ebf0f161"
+    },
+    {
+      "word": "grain",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɡreɪn/",
+        "us": "/ɡreɪn/"
+      },
+      "meaning": "颗粒；纹理",
+      "collocation": {
+        "en": "a grain of sand",
+        "zh": "一粒沙"
+      },
+      "example": {
+        "en": "A grain of sand got into his shoe.",
+        "zh": "他的鞋里进了一粒沙。"
+      },
+      "id": "v000028",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0ca9ff1c88b82a5fd23d8af853f862b835e2bdcef95629e748bf38a66be7c511"
+    },
+    {
+      "word": "lamb",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/læm/",
+        "us": "/læm/"
+      },
+      "meaning": "羔羊；羊羔肉",
+      "collocation": {
+        "en": "roast lamb",
+        "zh": "烤羊肉"
+      },
+      "example": {
+        "en": "The main course for dinner is roast lamb.",
+        "zh": "晚餐的主菜是烤羊肉。"
+      },
+      "id": "v000029",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d44c8f17edfed2e287022b5002779ad10fc23c9b4e365d950025b12a1f6c7934"
+    },
+    {
+      "word": "loaf",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ləʊf/",
+        "us": "/loʊf/"
+      },
+      "meaning": "一条面包",
+      "collocation": {
+        "en": "a loaf of bread",
+        "zh": "一条面包"
+      },
+      "example": {
+        "en": "I bought a loaf of bread at the bakery.",
+        "zh": "我在面包店买了一条面包。"
+      },
+      "id": "v000030",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "87316c15e3ca0e68201c607316f717f4e758bb27e029bbec43de7777e611deb9"
+    },
+    {
+      "word": "pea",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/piː/",
+        "us": "/piː/"
+      },
+      "meaning": "豌豆",
+      "collocation": {
+        "en": "green peas",
+        "zh": "青豌豆"
+      },
+      "example": {
+        "en": "There are some green peas in the soup.",
+        "zh": "汤里放了一些青豌豆。"
+      },
+      "id": "v000031",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6426374a61900362d1d021c81a996660cb43a1a3aeab3f7126dc1dc8e2123b8a"
+    },
+    {
+      "word": "pepper",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈpepə(r)/",
+        "us": "/ˈpepər/"
+      },
+      "meaning": "胡椒；辣椒",
+      "collocation": {
+        "en": "black pepper",
+        "zh": "黑胡椒"
+      },
+      "example": {
+        "en": "Please add a little black pepper to the steak.",
+        "zh": "请在牛排上撒一点黑胡椒。"
+      },
+      "id": "v000032",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "594b1b15bfb939abfc789b2cf0d4239bbc2280574e87b6899569163f44a16d0e"
+    },
+    {
+      "word": "sausage",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsɒsɪdʒ/",
+        "us": "/ˈsɔːsɪdʒ/"
+      },
+      "meaning": "香肠",
+      "collocation": {
+        "en": "grilled sausage",
+        "zh": "烤香肠"
+      },
+      "example": {
+        "en": "Breakfast includes eggs and grilled sausage.",
+        "zh": "早餐包括鸡蛋和烤香肠。"
+      },
+      "id": "v000033",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ba116245bae7ce50a37fb7dea183a5359433540c044aaec1ff1ea8a8135047da"
+    },
+    {
+      "word": "vinegar",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈvɪnɪɡə(r)/",
+        "us": "/ˈvɪnɪɡər/"
+      },
+      "meaning": "醋",
+      "collocation": {
+        "en": "rice vinegar",
+        "zh": "米醋"
+      },
+      "example": {
+        "en": "This dish requires a small amount of rice vinegar.",
+        "zh": "这道菜需要少量米醋。"
+      },
+      "id": "v000034",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "71267977a49484bee1711c27f897c1c06587984870c69059c9ae5a2cc36b5ae3"
+    },
+    {
+      "word": "sympathetic",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌsɪmpəˈθetɪk/",
+        "us": "/ˌsɪmpəˈθetɪk/"
+      },
+      "meaning": "同情的；体谅的",
+      "collocation": {
+        "en": "be sympathetic to",
+        "zh": "同情；理解……"
+      },
+      "example": {
+        "en": "The manager was sympathetic to the employee's difficulties.",
+        "zh": "经理很体谅员工遇到的困难。"
+      },
+      "id": "v000035",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "40fcfe9a25651e21cb9e6688871e475c17d4bd53e619906855a2d1491f544984"
+    },
+    {
+      "word": "expressway",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɪkˈspresweɪ/",
+        "us": "/ɪkˈspresweɪ/"
+      },
+      "meaning": "高速公路",
+      "collocation": {
+        "en": "take the expressway",
+        "zh": "走高速公路"
+      },
+      "example": {
+        "en": "It is faster to take the expressway to the airport.",
+        "zh": "走高速公路去机场会更快。"
+      },
+      "id": "v000036",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "50f64f18cdf0ee13a1c0ed7c8d01102842d5b29d05e988840184a36106b4dd75"
+    },
+    {
+      "word": "aquaculture",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈækwəkʌltʃə(r)/",
+        "us": "/ˈækwəkʌltʃər/"
+      },
+      "meaning": "水产养殖",
+      "collocation": {
+        "en": "aquaculture industry",
+        "zh": "水产养殖业"
+      },
+      "example": {
+        "en": "The aquaculture industry has grown rapidly in recent years.",
+        "zh": "水产养殖业近年来增长迅速。"
+      },
+      "id": "v000037",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2b8babe5d319da089dd721276120de59eb71a78619cbb68fa02acf209ab20ce2"
+    },
+    {
+      "word": "salmon",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsæmən/",
+        "us": "/ˈsæmən/"
+      },
+      "meaning": "鲑鱼；三文鱼",
+      "collocation": {
+        "en": "smoked salmon",
+        "zh": "烟熏三文鱼"
+      },
+      "example": {
+        "en": "The restaurant is famous for its smoked salmon.",
+        "zh": "这家餐厅的烟熏三文鱼很有名。"
+      },
+      "id": "v000038",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "78f0c8f133c33196adcf70560ebdae31c50fb9b2d4770545875edb5b51c57b4b"
+    },
+    {
+      "word": "clash",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/klæʃ/",
+        "us": "/klæʃ/"
+      },
+      "meaning": "冲突；争执",
+      "collocation": {
+        "en": "clash with",
+        "zh": "与……发生冲突"
+      },
+      "example": {
+        "en": "The two sides clashed over policy issues.",
+        "zh": "双方在政策问题上发生了冲突。"
+      },
+      "id": "v000039",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7ee6fc0a2c694d488d587a1f4150f8a45c85efb45fab3a73e00df2a8639e69ef"
+    },
+    {
+      "word": "clash",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/klæʃ/",
+        "us": "/klæʃ/"
+      },
+      "meaning": "冲突；不协调",
+      "collocation": {
+        "en": "clash with",
+        "zh": "与……冲突/不协调"
+      },
+      "example": {
+        "en": "This color clashes with the wallpaper.",
+        "zh": "这个颜色和墙纸不太协调。"
+      },
+      "id": "v000040",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7603bf196757eaec80aed3abaa2bdc98d4e2850304b0cb4f7f00495cf698e6aa"
+    },
+    {
+      "word": "dull",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/dʌl/",
+        "us": "/dʌl/"
+      },
+      "meaning": "乏味的；无聊的",
+      "collocation": {
+        "en": "dull lecture",
+        "zh": "乏味的讲座"
+      },
+      "example": {
+        "en": "The lecture was very dull.",
+        "zh": "这场讲座内容很乏味。"
+      },
+      "id": "v000041",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c70819a978c13a3dd5a9e8b5f5bad85791b43f4435849e78d477757e8c2783e1"
+    },
+    {
+      "word": "dull",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/dʌl/",
+        "us": "/dʌl/"
+      },
+      "meaning": "钝的；不锋利的",
+      "collocation": {
+        "en": "dull knife",
+        "zh": "钝刀"
+      },
+      "example": {
+        "en": "This knife is too dull to cut the meat.",
+        "zh": "这把刀太钝了，切不动肉。"
+      },
+      "id": "v000042",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4451bf7557b4f522bde0b2bd249ab152dc0c18f3528ac5191a6256be422558aa"
+    },
+    {
+      "word": "hollow",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈhɒləʊ/",
+        "us": "/ˈhɑːloʊ/"
+      },
+      "meaning": "空心的；中空的",
+      "collocation": {
+        "en": "hollow tube",
+        "zh": "空心管"
+      },
+      "example": {
+        "en": "The metal tube is hollow.",
+        "zh": "这根金属管是中空的。"
+      },
+      "id": "v000043",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cb18a4894cb849c9eb745c707e529e33ed8c59e0ff153a7eb8d24536c9e717fa"
+    },
+    {
+      "word": "hollow",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈhɒləʊ/",
+        "us": "/ˈhɑːloʊ/"
+      },
+      "meaning": "空洞的；虚伪的",
+      "collocation": {
+        "en": "hollow promise",
+        "zh": "空洞承诺"
+      },
+      "example": {
+        "en": "Everyone is tired of hollow promises.",
+        "zh": "大家已经厌倦了空洞的承诺。"
+      },
+      "id": "v000044",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "50d8b9a4a0cbf80918f855f25ad0f969d472a2bcad7e1cfdf468b8f06d2e8b36"
+    },
+    {
+      "word": "overhear",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˌəʊvəˈhɪə(r)/",
+        "us": "/ˌoʊvərˈhɪr/"
+      },
+      "meaning": "无意中听到",
+      "collocation": {
+        "en": "overhear a conversation",
+        "zh": "无意听到谈话"
+      },
+      "example": {
+        "en": "I overheard their conversation.",
+        "zh": "我无意中听到了他们的谈话。"
+      },
+      "id": "v000045",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "eda21b3e5b39b9b872146d6fc79756ba04f4aedb1e60b976c2b6abee8c2ab7ee"
+    },
+    {
+      "word": "pitch",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pɪtʃ/",
+        "us": "/pɪtʃ/"
+      },
+      "meaning": "投球；球场",
+      "collocation": {
+        "en": "football pitch",
+        "zh": "足球场"
+      },
+      "example": {
+        "en": "The children are training on the football pitch.",
+        "zh": "孩子们正在足球场上训练。"
+      },
+      "id": "v000046",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "662f088a011f458297356b085a62f5692f06b5cadcca9d82b219f2081a1cdffa"
+    },
+    {
+      "word": "pitch",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pɪtʃ/",
+        "us": "/pɪtʃ/"
+      },
+      "meaning": "推销说辞；提案",
+      "collocation": {
+        "en": "sales pitch",
+        "zh": "销售推介"
+      },
+      "example": {
+        "en": "His sales pitch was very persuasive.",
+        "zh": "他的销售推介非常有说服力。"
+      },
+      "id": "v000047",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d3b952f5cbfda618f8d4a69585861c6c35b46d479249cdbae7dbdcd5b681f187"
+    },
+    {
+      "word": "pitch",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/pɪtʃ/",
+        "us": "/pɪtʃ/"
+      },
+      "meaning": "投掷；推销",
+      "collocation": {
+        "en": "pitch an idea",
+        "zh": "推销一个想法"
+      },
+      "example": {
+        "en": "She pitched a new idea to management.",
+        "zh": "她向管理层推销了一个新想法。"
+      },
+      "id": "v000048",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3afb77a341d1d39aa0fbf358ee8b45573aab7795d9a02a989d368956811c60b2"
+    },
+    {
+      "word": "roar",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/rɔː(r)/",
+        "us": "/rɔːr/"
+      },
+      "meaning": "吼叫；轰鸣",
+      "collocation": {
+        "en": "roar with laughter",
+        "zh": "放声大笑"
+      },
+      "example": {
+        "en": "Everyone roared with laughter after hearing the joke.",
+        "zh": "听到这个笑话后大家都大笑起来。"
+      },
+      "id": "v000049",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7bd7b95c68ff09c0bc163513580f45a8bf99940a337690c4e115e4971936075f"
+    },
+    {
+      "word": "roar",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/rɔː(r)/",
+        "us": "/rɔːr/"
+      },
+      "meaning": "吼声；轰鸣声",
+      "collocation": {
+        "en": "roar of traffic",
+        "zh": "交通轰鸣声"
+      },
+      "example": {
+        "en": "There was a constant roar of traffic outside the window.",
+        "zh": "窗外传来持续不断的交通轰鸣声。"
+      },
+      "id": "v000050",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "116806e15fa5ce449ce00e2d32b1309ae2884b2da2bf8a3bc1f46608cb2820ea"
+    }
+  ]
+}

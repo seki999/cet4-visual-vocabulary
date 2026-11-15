@@ -1,0 +1,645 @@
+{
+  "id": "list02",
+  "title": "List 02",
+  "description": "CET-4 Vocabulary",
+  "items": [
+    {
+      "word": "worthwhile",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌwɜːθˈwaɪl/",
+        "us": "/ˌwɜːrθˈwaɪl/"
+      },
+      "meaning": "值得的；有价值的",
+      "collocation": {
+        "en": "worthwhile investment",
+        "zh": "值得的投资"
+      },
+      "example": {
+        "en": "Learning English is a worthwhile long-term investment.",
+        "zh": "学习英语是一项值得的长期投资。"
+      },
+      "id": "v000051",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f0776bf03df8a9032a82a9bb932dbce1c8f68518b7343667490a7b2b76f42b3e"
+    },
+    {
+      "word": "mill",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/mɪl/",
+        "us": "/mɪl/"
+      },
+      "meaning": "磨坊；工厂",
+      "collocation": {
+        "en": "steel mill",
+        "zh": "钢铁厂"
+      },
+      "example": {
+        "en": "The city used to have many steel mills.",
+        "zh": "这座城市过去有很多钢铁厂。"
+      },
+      "id": "v000052",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2e453645cdea524c1ee0f42b158a4c19654162eafada9f1e205b2142a40b41b7"
+    },
+    {
+      "word": "mill",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/mɪl/",
+        "us": "/mɪl/"
+      },
+      "meaning": "碾磨；磨碎",
+      "collocation": {
+        "en": "mill grain",
+        "zh": "磨谷物"
+      },
+      "example": {
+        "en": "People used watermills to mill grain.",
+        "zh": "过去人们用水磨来磨谷物。"
+      },
+      "id": "v000053",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c57424bd5f3e2a58fab2d29b472e16f0ba6da05619d8411e083db06b8e33b888"
+    },
+    {
+      "word": "brake",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/breɪk/",
+        "us": "/breɪk/"
+      },
+      "meaning": "刹车；制动器",
+      "collocation": {
+        "en": "apply the brakes",
+        "zh": "踩刹车"
+      },
+      "example": {
+        "en": "The driver suddenly applied the brakes.",
+        "zh": "司机突然踩下刹车。"
+      },
+      "id": "v000054",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "539d5e69c647f565e8659d766bb488fdf3f9aff997cb50f875377bb088a5a7f7"
+    },
+    {
+      "word": "brake",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/breɪk/",
+        "us": "/breɪk/"
+      },
+      "meaning": "刹车；制动",
+      "collocation": {
+        "en": "brake sharply",
+        "zh": "急刹车"
+      },
+      "example": {
+        "en": "He braked sharply to avoid the pedestrian.",
+        "zh": "为了避开行人，他猛地刹车。"
+      },
+      "id": "v000055",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6907d09d4a3bf974062089596cf426874019911aee29e075556c012a636b18d1"
+    },
+    {
+      "word": "deck",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dek/",
+        "us": "/dek/"
+      },
+      "meaning": "甲板",
+      "collocation": {
+        "en": "upper deck",
+        "zh": "上层甲板"
+      },
+      "example": {
+        "en": "The passengers stood on the upper deck to enjoy the sea view.",
+        "zh": "乘客们站在上层甲板看海景。"
+      },
+      "id": "v000056",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "372a19d3dc219e617bbb84dd486b1e5cffacb43525b59dcd6195b9eea04eca1c"
+    },
+    {
+      "word": "deck",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/dek/",
+        "us": "/dek/"
+      },
+      "meaning": "装饰",
+      "collocation": {
+        "en": "deck out",
+        "zh": "装饰；打扮"
+      },
+      "example": {
+        "en": "The hall was decked out beautifully for the festival.",
+        "zh": "大厅为节日装饰得十分漂亮。"
+      },
+      "id": "v000057",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "866ff0e1f01695bd2b6095071f16e4d9a8b9bfb990d1a2f94dc41508fec44ada"
+    },
+    {
+      "word": "hatch",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/hætʃ/",
+        "us": "/hætʃ/"
+      },
+      "meaning": "舱口；小门",
+      "collocation": {
+        "en": "open the hatch",
+        "zh": "打开舱口"
+      },
+      "example": {
+        "en": "The crew opened the hatch to inspect the cargo hold.",
+        "zh": "船员打开舱口检查货舱。"
+      },
+      "id": "v000058",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0b600e172c8ee59b66e775ff696e691eeeb50daab4bd1318785f022f586a62ae"
+    },
+    {
+      "word": "hatch",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/hætʃ/",
+        "us": "/hætʃ/"
+      },
+      "meaning": "孵化",
+      "collocation": {
+        "en": "eggs hatch",
+        "zh": "蛋孵化"
+      },
+      "example": {
+        "en": "The eggs will hatch in about two weeks.",
+        "zh": "这些蛋将在大约两周后孵化。"
+      },
+      "id": "v000059",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cfa5d7e21ef6237e4af5c7c3a1088b5274dd2df67a5a8789f09cc0c74355112c"
+    },
+    {
+      "word": "hatch",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/hætʃ/",
+        "us": "/hætʃ/"
+      },
+      "meaning": "策划；密谋",
+      "collocation": {
+        "en": "hatch a plan",
+        "zh": "策划计划"
+      },
+      "example": {
+        "en": "They secretly hatched a new business plan.",
+        "zh": "他们秘密策划了一个新的商业计划。"
+      },
+      "id": "v000060",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "98e5e2dc6c72b6952c6fdaa4194ce9aba1603d2892d03810180dfa9a651b994a"
+    },
+    {
+      "word": "saddle",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈsædl/",
+        "us": "/ˈsædl/"
+      },
+      "meaning": "马鞍；车座",
+      "collocation": {
+        "en": "bicycle saddle",
+        "zh": "自行车座"
+      },
+      "example": {
+        "en": "The bicycle saddle needs to be raised slightly.",
+        "zh": "这个自行车座需要调高一点。"
+      },
+      "id": "v000061",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d7ed760830b86a8d9109498a07024795e5c9f27f00d674649f0f69192234551f"
+    },
+    {
+      "word": "saddle",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈsædl/",
+        "us": "/ˈsædl/"
+      },
+      "meaning": "使承担（责任、债务）",
+      "collocation": {
+        "en": "saddle someone with",
+        "zh": "使某人背负……"
+      },
+      "example": {
+        "en": "The company should not saddle young employees with too much responsibility.",
+        "zh": "公司不应该让年轻员工背负过多责任。"
+      },
+      "id": "v000062",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2a78a0b92a099557dad725646209413dfea3737f586f00dd07af856e44b412fe"
+    },
+    {
+      "word": "trunk",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/trʌŋk/",
+        "us": "/trʌŋk/"
+      },
+      "meaning": "树干",
+      "collocation": {
+        "en": "tree trunk",
+        "zh": "树干"
+      },
+      "example": {
+        "en": "The trunk of the old tree is very thick.",
+        "zh": "这棵老树的树干非常粗。"
+      },
+      "id": "v000063",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b9dafe6e239237dda955a8f7c2c6ac877036d6085a9916f2ebab93479be9f59f"
+    },
+    {
+      "word": "trunk",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/trʌŋk/",
+        "us": "/trʌŋk/"
+      },
+      "meaning": "汽车后备箱（美）",
+      "collocation": {
+        "en": "car trunk",
+        "zh": "汽车后备箱"
+      },
+      "example": {
+        "en": "Please put the luggage in the car trunk.",
+        "zh": "请把行李放进后备箱。"
+      },
+      "id": "v000064",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2931a4871f277b808a99b7e2b02a83ac3b4adf88eb88e82d0affed13fabaddb8"
+    },
+    {
+      "word": "trunk",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/trʌŋk/",
+        "us": "/trʌŋk/"
+      },
+      "meaning": "象鼻",
+      "collocation": {
+        "en": "elephant's trunk",
+        "zh": "象鼻"
+      },
+      "example": {
+        "en": "The elephant picked up the food with its trunk.",
+        "zh": "大象用鼻子卷起了食物。"
+      },
+      "id": "v000065",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "463ea9bbaca5dcee18acb374a97e5ad3bc0ce9c515c692f55a5bb692f539e241"
+    },
+    {
+      "word": "tyre",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈtaɪə(r)/",
+        "us": "/ˈtaɪər/"
+      },
+      "meaning": "轮胎（英式拼写）",
+      "collocation": {
+        "en": "flat tyre",
+        "zh": "爆胎；瘪胎"
+      },
+      "example": {
+        "en": "We got a flat tyre on the expressway.",
+        "zh": "我们在高速公路上遇到了爆胎。"
+      },
+      "id": "v000066",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e50f2fe513eb2cceceb9eda9be5decf147c5e868a89975522a059053add093b8"
+    },
+    {
+      "word": "cope",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/kəʊp/",
+        "us": "/koʊp/"
+      },
+      "meaning": "应付；处理",
+      "collocation": {
+        "en": "cope with",
+        "zh": "应付……"
+      },
+      "example": {
+        "en": "The team must learn to cope with unexpected problems.",
+        "zh": "团队必须学会应对突发问题。"
+      },
+      "id": "v000067",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "80c4765e3b1c70059cf11f4bd561f2db68db3e359fa131f099c72be9721741d8"
+    },
+    {
+      "word": "beam",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/biːm/",
+        "us": "/biːm/"
+      },
+      "meaning": "梁；横梁",
+      "collocation": {
+        "en": "steel beam",
+        "zh": "钢梁"
+      },
+      "example": {
+        "en": "The bridge is supported by large steel beams.",
+        "zh": "这座桥由大型钢梁支撑。"
+      },
+      "id": "v000068",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7faf0800ebeced2bb19fc6d13f88692695f37baff29e9c70ffa7fe6d004f6e32"
+    },
+    {
+      "word": "beam",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/biːm/",
+        "us": "/biːm/"
+      },
+      "meaning": "光束",
+      "collocation": {
+        "en": "beam of light",
+        "zh": "一束光"
+      },
+      "example": {
+        "en": "A beam of light entered the room through the window.",
+        "zh": "一束光从窗户照进房间。"
+      },
+      "id": "v000069",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0b92b09ef7ef7c3bc8b701a9d649a732bfbba1a77188d1c9fbfc36ee2650dd0e"
+    },
+    {
+      "word": "beam",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/biːm/",
+        "us": "/biːm/"
+      },
+      "meaning": "喜笑颜开；传送",
+      "collocation": {
+        "en": "beam with pride",
+        "zh": "自豪地笑容满面"
+      },
+      "example": {
+        "en": "He beamed with pride after hearing the good news.",
+        "zh": "听到这个好消息后，他高兴得满脸笑容。"
+      },
+      "id": "v000070",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b4f651b5be48205d5c29a76ab949ffc8bf3c6625f958093b702aad733c75c3bf"
+    },
+    {
+      "word": "grin",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ɡrɪn/",
+        "us": "/ɡrɪn/"
+      },
+      "meaning": "咧嘴笑",
+      "collocation": {
+        "en": "grin broadly",
+        "zh": "咧嘴大笑"
+      },
+      "example": {
+        "en": "He grinned broadly after hearing the good news.",
+        "zh": "听到好消息后，他咧嘴笑了。"
+      },
+      "id": "v000071",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f5a59134844e3f58ee3060c13ac38648da9c4323bd8073c55473ca10e322e611"
+    },
+    {
+      "word": "grin",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɡrɪn/",
+        "us": "/ɡrɪn/"
+      },
+      "meaning": "咧嘴笑；露齿笑",
+      "collocation": {
+        "en": "with a grin",
+        "zh": "咧嘴笑着"
+      },
+      "example": {
+        "en": "She waved to everyone with a grin.",
+        "zh": "她咧嘴笑着向大家挥手。"
+      },
+      "id": "v000072",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d96b937dd358e88b30513e0fab58e760fee83dfb738251fe37ff889facb13c53"
+    },
+    {
+      "word": "madden",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈmædn/",
+        "us": "/ˈmædn/"
+      },
+      "meaning": "使非常生气；使发狂",
+      "collocation": {
+        "en": "madden someone",
+        "zh": "使某人恼火"
+      },
+      "example": {
+        "en": "The constant noise is maddening me.",
+        "zh": "不断的噪音快把我逼疯了。"
+      },
+      "id": "v000073",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2f3d7a1fcda3954bf15579e4bf15e87fbb540ff0a17da724deabfab0fbd48169"
+    },
+    {
+      "word": "weep",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/wiːp/",
+        "us": "/wiːp/"
+      },
+      "meaning": "哭泣；流泪",
+      "collocation": {
+        "en": "weep for",
+        "zh": "为……哭泣"
+      },
+      "example": {
+        "en": "She began to weep after hearing the news.",
+        "zh": "她听到这个消息后哭了起来。"
+      },
+      "id": "v000074",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8b5c2f07392a298926ad1351df7b748abb6d2f96e7f93789641eaba676f0b0bc"
+    },
+    {
+      "word": "yell",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/jel/",
+        "us": "/jel/"
+      },
+      "meaning": "大喊；吼叫",
+      "collocation": {
+        "en": "yell at",
+        "zh": "冲……大喊"
+      },
+      "example": {
+        "en": "Do not yell at the children.",
+        "zh": "不要对孩子大喊大叫。"
+      },
+      "id": "v000075",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "fd36b1eb32d4b1d5b8ebd2f3dc2ec9e538e162d98c81188314a0abe115576129"
+    },
+    {
+      "word": "yell",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/jel/",
+        "us": "/jel/"
+      },
+      "meaning": "喊叫声",
+      "collocation": {
+        "en": "give a yell",
+        "zh": "大喊一声"
+      },
+      "example": {
+        "en": "He suddenly gave a yell.",
+        "zh": "他突然发出一声喊叫。"
+      },
+      "id": "v000076",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "97868e4b6b1236626ea9509710ea23e34d9b921dab2559f536ac93b1cd9f7cee"
+    },
+    {
+      "word": "frown",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/fraʊn/",
+        "us": "/fraʊn/"
+      },
+      "meaning": "皱眉",
+      "collocation": {
+        "en": "frown at",
+        "zh": "对……皱眉"
+      },
+      "example": {
+        "en": "She frowned at the mistake.",
+        "zh": "她看到错误后皱起了眉头。"
+      },
+      "id": "v000077",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2b33c7f1ecb75a3bfeace77def77b5a5fab16ce02d8dfe8f5040b01031e84033"
+    },
+    {
+      "word": "frown",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/fraʊn/",
+        "us": "/fraʊn/"
+      },
+      "meaning": "皱眉的表情",
+      "collocation": {
+        "en": "with a frown",
+        "zh": "皱着眉"
+      },
+      "example": {
+        "en": "He looked at the report with a frown.",
+        "zh": "他皱着眉看着报告。"
+      },
+      "id": "v000078",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "4629b1d753fa5a9e5670e0bbcc7aa77c62f5fd0632c2104608b436fc46ee3790"
+    },
+    {
+      "word": "hatred",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈheɪtrɪd/",
+        "us": "/ˈheɪtrɪd/"
+      },
+      "meaning": "仇恨；憎恶",
+      "collocation": {
+        "en": "hatred of",
+        "zh": "对……的仇恨"
+      },
+      "example": {
+        "en": "The conflict deepened the hatred between the two sides.",
+        "zh": "这场冲突加深了双方的仇恨。"
+      },
+      "id": "v000079",
+      "images": [],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3e4ad08adc8dbcbbbc7d9bfa2e12e15d20169a1e905afe627df56680b2cc5b05"
+    }
+  ]
+}
