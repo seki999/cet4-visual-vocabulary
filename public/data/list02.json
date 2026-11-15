@@ -56,7 +56,21 @@
         "zh": "这座城市过去有很多钢铁厂。"
       },
       "id": "v000052",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000052",
+          "src": "images/list02/v000052.webp",
+          "alt": "mill: steel mill",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2e453645cdea524c1ee0f42b158a4c19654162eafada9f1e205b2142a40b41b7"
@@ -78,7 +92,21 @@
         "zh": "过去人们用水磨来磨谷物。"
       },
       "id": "v000053",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000053",
+          "src": "images/list02/v000053.webp",
+          "alt": "mill: mill grain",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c57424bd5f3e2a58fab2d29b472e16f0ba6da05619d8411e083db06b8e33b888"
@@ -100,7 +128,21 @@
         "zh": "司机突然踩下刹车。"
       },
       "id": "v000054",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000054",
+          "src": "images/list02/v000054.webp",
+          "alt": "brake: apply the brakes",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "539d5e69c647f565e8659d766bb488fdf3f9aff997cb50f875377bb088a5a7f7"
@@ -122,7 +164,21 @@
         "zh": "为了避开行人，他猛地刹车。"
       },
       "id": "v000055",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000055",
+          "src": "images/list02/v000055.webp",
+          "alt": "brake: brake sharply",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6907d09d4a3bf974062089596cf426874019911aee29e075556c012a636b18d1"
@@ -144,7 +200,21 @@
         "zh": "乘客们站在上层甲板看海景。"
       },
       "id": "v000056",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000056",
+          "src": "images/list02/v000056.webp",
+          "alt": "deck: upper deck",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "372a19d3dc219e617bbb84dd486b1e5cffacb43525b59dcd6195b9eea04eca1c"
@@ -166,7 +236,21 @@
         "zh": "大厅为节日装饰得十分漂亮。"
       },
       "id": "v000057",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000057",
+          "src": "images/list02/v000057.webp",
+          "alt": "deck: deck out",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "866ff0e1f01695bd2b6095071f16e4d9a8b9bfb990d1a2f94dc41508fec44ada"
@@ -188,7 +272,21 @@
         "zh": "船员打开舱口检查货舱。"
       },
       "id": "v000058",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000058",
+          "src": "images/list02/v000058.webp",
+          "alt": "hatch: open the hatch",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0b600e172c8ee59b66e775ff696e691eeeb50daab4bd1318785f022f586a62ae"
@@ -210,7 +308,21 @@
         "zh": "这些蛋将在大约两周后孵化。"
       },
       "id": "v000059",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000059",
+          "src": "images/list02/v000059.webp",
+          "alt": "hatch: eggs hatch",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cfa5d7e21ef6237e4af5c7c3a1088b5274dd2df67a5a8789f09cc0c74355112c"
@@ -232,7 +344,21 @@
         "zh": "他们秘密策划了一个新的商业计划。"
       },
       "id": "v000060",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000060",
+          "src": "images/list02/v000060.webp",
+          "alt": "hatch: hatch a plan",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "98e5e2dc6c72b6952c6fdaa4194ce9aba1603d2892d03810180dfa9a651b994a"
@@ -290,7 +416,21 @@
         "zh": "公司不应该让年轻员工背负过多责任。"
       },
       "id": "v000062",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000062",
+          "src": "images/list02/v000062.webp",
+          "alt": "saddle: saddle someone with",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2a78a0b92a099557dad725646209413dfea3737f586f00dd07af856e44b412fe"
@@ -348,7 +488,21 @@
         "zh": "请把行李放进后备箱。"
       },
       "id": "v000064",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000064",
+          "src": "images/list02/v000064.webp",
+          "alt": "trunk: car trunk",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2931a4871f277b808a99b7e2b02a83ac3b4adf88eb88e82d0affed13fabaddb8"
@@ -370,7 +524,21 @@
         "zh": "大象用鼻子卷起了食物。"
       },
       "id": "v000065",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000065",
+          "src": "images/list02/v000065.webp",
+          "alt": "trunk: elephant's trunk",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "463ea9bbaca5dcee18acb374a97e5ad3bc0ce9c515c692f55a5bb692f539e241"
@@ -392,7 +560,21 @@
         "zh": "我们在高速公路上遇到了爆胎。"
       },
       "id": "v000066",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000066",
+          "src": "images/list02/v000066.webp",
+          "alt": "tyre: flat tyre",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e50f2fe513eb2cceceb9eda9be5decf147c5e868a89975522a059053add093b8"
@@ -414,7 +596,21 @@
         "zh": "团队必须学会应对突发问题。"
       },
       "id": "v000067",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000067",
+          "src": "images/list02/v000067.webp",
+          "alt": "cope: cope with",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "80c4765e3b1c70059cf11f4bd561f2db68db3e359fa131f099c72be9721741d8"
@@ -436,7 +632,21 @@
         "zh": "这座桥由大型钢梁支撑。"
       },
       "id": "v000068",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000068",
+          "src": "images/list02/v000068.webp",
+          "alt": "beam: steel beam",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7faf0800ebeced2bb19fc6d13f88692695f37baff29e9c70ffa7fe6d004f6e32"
@@ -458,7 +668,21 @@
         "zh": "一束光从窗户照进房间。"
       },
       "id": "v000069",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000069",
+          "src": "images/list02/v000069.webp",
+          "alt": "beam: beam of light",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0b92b09ef7ef7c3bc8b701a9d649a732bfbba1a77188d1c9fbfc36ee2650dd0e"
@@ -480,7 +704,21 @@
         "zh": "听到这个好消息后，他高兴得满脸笑容。"
       },
       "id": "v000070",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000070",
+          "src": "images/list02/v000070.webp",
+          "alt": "beam: beam with pride",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b4f651b5be48205d5c29a76ab949ffc8bf3c6625f958093b702aad733c75c3bf"
@@ -538,7 +776,21 @@
         "zh": "她咧嘴笑着向大家挥手。"
       },
       "id": "v000072",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000072",
+          "src": "images/list02/v000072.webp",
+          "alt": "grin: with a grin",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d96b937dd358e88b30513e0fab58e760fee83dfb738251fe37ff889facb13c53"
@@ -560,7 +812,21 @@
         "zh": "不断的噪音快把我逼疯了。"
       },
       "id": "v000073",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000073",
+          "src": "images/list02/v000073.webp",
+          "alt": "madden: madden someone",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2f3d7a1fcda3954bf15579e4bf15e87fbb540ff0a17da724deabfab0fbd48169"
@@ -582,7 +848,21 @@
         "zh": "她听到这个消息后哭了起来。"
       },
       "id": "v000074",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000074",
+          "src": "images/list02/v000074.webp",
+          "alt": "weep: weep for",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8b5c2f07392a298926ad1351df7b748abb6d2f96e7f93789641eaba676f0b0bc"
@@ -604,7 +884,21 @@
         "zh": "不要对孩子大喊大叫。"
       },
       "id": "v000075",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000075",
+          "src": "images/list02/v000075.webp",
+          "alt": "yell: yell at",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "fd36b1eb32d4b1d5b8ebd2f3dc2ec9e538e162d98c81188314a0abe115576129"
@@ -626,7 +920,21 @@
         "zh": "他突然发出一声喊叫。"
       },
       "id": "v000076",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000076",
+          "src": "images/list02/v000076.webp",
+          "alt": "yell: give a yell",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "97868e4b6b1236626ea9509710ea23e34d9b921dab2559f536ac93b1cd9f7cee"
@@ -648,7 +956,21 @@
         "zh": "她看到错误后皱起了眉头。"
       },
       "id": "v000077",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000077",
+          "src": "images/list02/v000077.webp",
+          "alt": "frown: frown at",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2b33c7f1ecb75a3bfeace77def77b5a5fab16ce02d8dfe8f5040b01031e84033"
@@ -670,7 +992,21 @@
         "zh": "他皱着眉看着报告。"
       },
       "id": "v000078",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000078",
+          "src": "images/list02/v000078.webp",
+          "alt": "frown: with a frown",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4629b1d753fa5a9e5670e0bbcc7aa77c62f5fd0632c2104608b436fc46ee3790"
@@ -692,7 +1028,21 @@
         "zh": "这场冲突加深了双方的仇恨。"
       },
       "id": "v000079",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000079",
+          "src": "images/list02/v000079.webp",
+          "alt": "hatred: hatred of",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3e4ad08adc8dbcbbbc7d9bfa2e12e15d20169a1e905afe627df56680b2cc5b05"

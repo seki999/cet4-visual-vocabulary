@@ -92,7 +92,21 @@
         "zh": "这种习俗是该地区特有的。"
       },
       "id": "v000003",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000003",
+          "src": "images/list01/v000003.webp",
+          "alt": "peculiar: peculiar to",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8417d8d74ebfd1ea82916f04b9cfecb4a319dcbb1711b3930d30e8b23f59b479"
@@ -114,7 +128,21 @@
         "zh": "这家奶牛场每天生产大量牛奶。"
       },
       "id": "v000004",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000004",
+          "src": "images/list01/v000004.webp",
+          "alt": "farm: dairy farm",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ea61e2e35e12373969be3482dcb5d0170bd87f475c868406a361ec58a0df530c"
@@ -136,7 +164,21 @@
         "zh": "这个家庭世代耕种这片土地。"
       },
       "id": "v000005",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000005",
+          "src": "images/list01/v000005.webp",
+          "alt": "farm: farm the land",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "28fde3b26d7b50a64888cd982a77b1ee7ac991408fd31f514f1d05fd6fb28a73"
@@ -158,7 +200,21 @@
         "zh": "这艘船正在驶入东京湾。"
       },
       "id": "v000006",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000006",
+          "src": "images/list01/v000006.webp",
+          "alt": "bay: Tokyo Bay",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "8a42ed1f9d6fdd4aece115ab9840fd6bd763b9288cd1b63226cc4607653622f8"
@@ -180,7 +236,21 @@
         "zh": "卡车正在装卸区卸货。"
       },
       "id": "v000007",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000007",
+          "src": "images/list01/v000007.webp",
+          "alt": "bay: loading bay",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6d5c07b82a9937002e26e21e93eb1a9637928aa6b4730e5f5ce36dba259db377"
@@ -202,7 +272,21 @@
         "zh": "大量石油经由波斯湾运输。"
       },
       "id": "v000008",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000008",
+          "src": "images/list01/v000008.webp",
+          "alt": "gulf: Persian Gulf",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f9e210e62a4b86b6422fdc28802dd1df9199ef48dda6f8e273625eb6907827c6"
@@ -224,7 +308,21 @@
         "zh": "两代人之间存在明显的观念差距。"
       },
       "id": "v000009",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000009",
+          "src": "images/list01/v000009.webp",
+          "alt": "gulf: a gulf between",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "a6359865e7d5427c8acbbbc6199fa1c88e60648819f35f33c30e43424bf0d58a"
@@ -246,7 +344,21 @@
         "zh": "他用杀虫喷雾处理了房间。"
       },
       "id": "v000010",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000010",
+          "src": "images/list01/v000010.webp",
+          "alt": "spray: insect spray",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2036107e72f765aaf4f203c0c17e3fa893e869390bf74ed582484aeb2c706462"
@@ -340,7 +452,21 @@
         "zh": "渔民用小鱼作诱饵。"
       },
       "id": "v000013",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000013",
+          "src": "images/list01/v000013.webp",
+          "alt": "bait: use as bait",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "bf03e1f5e10368b62c50f3b7ec84ed4d6cc21e6965dd99848a02f8c75791a660"
@@ -362,7 +488,21 @@
         "zh": "他把虫子装到鱼钩上。"
       },
       "id": "v000014",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000014",
+          "src": "images/list01/v000014.webp",
+          "alt": "bait: bait a hook",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "78496d7035ba8a54cc0f83252383fdd3931b4a8c16a9e3936fa95f8afe57c099"
@@ -384,7 +524,21 @@
         "zh": "蛋壳掉在了桌子上。"
       },
       "id": "v000015",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000015",
+          "src": "images/list01/v000015.webp",
+          "alt": "shell: egg shell",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e650725f12766d4b8b6c7ee3449be108f90775c3d32547e8046d74975edbf3ee"
@@ -406,7 +560,21 @@
         "zh": "博物馆展出了一枚旧炮弹。"
       },
       "id": "v000016",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000016",
+          "src": "images/list01/v000016.webp",
+          "alt": "shell: artillery shell",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "103c9ad04f689db07291914d84d9fa3361efed3da62f6c5d3795a4eab2f98d31"
@@ -428,7 +596,21 @@
         "zh": "她正在厨房里剥豌豆。"
       },
       "id": "v000017",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000017",
+          "src": "images/list01/v000017.webp",
+          "alt": "shell: shell peas",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f90987ac718e4eabd2348f3d2793a16869322e94f50b111b71cca2190ffaf9eb"
@@ -450,7 +632,21 @@
         "zh": "不要一味模仿别人的写作风格。"
       },
       "id": "v000018",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000018",
+          "src": "images/list01/v000018.webp",
+          "alt": "imitate: imitate someone's style",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "dac3a273bacfd6aadf55aa76316c3c8a4c75487ff0df1c9ddead55ea4e40cf0d"
@@ -472,7 +668,21 @@
         "zh": "这些野生浆果不能随便吃。"
       },
       "id": "v000019",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000019",
+          "src": "images/list01/v000019.webp",
+          "alt": "berry: wild berries",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "26ce3fa664b5920f2de88a1aa598fca0959ee38d62604fd017ee114b729545da"
@@ -494,7 +704,21 @@
         "zh": "我早餐通常吃麦片和牛奶。"
       },
       "id": "v000020",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000020",
+          "src": "images/list01/v000020.webp",
+          "alt": "cereal: breakfast cereal",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4019665abba77083215e431014f0df8428caf8358858f0ae5d551a37441bbc51"
@@ -588,7 +812,21 @@
         "zh": "他不喜欢吃面包皮。"
       },
       "id": "v000023",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000023",
+          "src": "images/list01/v000023.webp",
+          "alt": "crust: bread crust",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b18628817b94ecb83e42246b0569cfe89211d2d702d69ef9f5c1f0e72e45dbe0"
@@ -610,7 +848,21 @@
         "zh": "地震发生在地壳内部。"
       },
       "id": "v000024",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000024",
+          "src": "images/list01/v000024.webp",
+          "alt": "crust: Earth's crust",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "59ea905216ba90238d78a50e9f552256f048b1a8f81c4f0ccd507312cbcd019d"
@@ -632,7 +884,21 @@
         "zh": "这块面包是用小麦面粉做的。"
       },
       "id": "v000025",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000025",
+          "src": "images/list01/v000025.webp",
+          "alt": "flour: wheat flour",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "599495b79ca77bb3e2bcb1d7ecc097479b4fb962bbe8b85fcc6c9d143ca8e9e1"
@@ -654,7 +920,21 @@
         "zh": "请在汤里加两瓣大蒜。"
       },
       "id": "v000026",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000026",
+          "src": "images/list01/v000026.webp",
+          "alt": "garlic: clove of garlic",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ebf0636c298359aade136168488cb12c4f2924664400d3a6063f15a978be79af"
@@ -676,7 +956,21 @@
         "zh": "全谷物含有丰富的膳食纤维。"
       },
       "id": "v000027",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000027",
+          "src": "images/list01/v000027.webp",
+          "alt": "grain: whole grain",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "72d10b54318c9945be4c53b72048777dc7cab1573dbc3dac6d192297ebf0f161"
@@ -698,7 +992,21 @@
         "zh": "他的鞋里进了一粒沙。"
       },
       "id": "v000028",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000028",
+          "src": "images/list01/v000028.webp",
+          "alt": "grain: a grain of sand",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "0ca9ff1c88b82a5fd23d8af853f862b835e2bdcef95629e748bf38a66be7c511"
@@ -720,7 +1028,21 @@
         "zh": "晚餐的主菜是烤羊肉。"
       },
       "id": "v000029",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000029",
+          "src": "images/list01/v000029.webp",
+          "alt": "lamb: roast lamb",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d44c8f17edfed2e287022b5002779ad10fc23c9b4e365d950025b12a1f6c7934"
@@ -742,7 +1064,21 @@
         "zh": "我在面包店买了一条面包。"
       },
       "id": "v000030",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000030",
+          "src": "images/list01/v000030.webp",
+          "alt": "loaf: a loaf of bread",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "87316c15e3ca0e68201c607316f717f4e758bb27e029bbec43de7777e611deb9"
@@ -836,7 +1172,21 @@
         "zh": "早餐包括鸡蛋和烤香肠。"
       },
       "id": "v000033",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000033",
+          "src": "images/list01/v000033.webp",
+          "alt": "sausage: grilled sausage",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "ba116245bae7ce50a37fb7dea183a5359433540c044aaec1ff1ea8a8135047da"
@@ -858,7 +1208,21 @@
         "zh": "这道菜需要少量米醋。"
       },
       "id": "v000034",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000034",
+          "src": "images/list01/v000034.webp",
+          "alt": "vinegar: rice vinegar",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "71267977a49484bee1711c27f897c1c06587984870c69059c9ae5a2cc36b5ae3"
@@ -880,7 +1244,21 @@
         "zh": "经理很体谅员工遇到的困难。"
       },
       "id": "v000035",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000035",
+          "src": "images/list01/v000035.webp",
+          "alt": "sympathetic: be sympathetic to",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "40fcfe9a25651e21cb9e6688871e475c17d4bd53e619906855a2d1491f544984"
@@ -902,7 +1280,21 @@
         "zh": "走高速公路去机场会更快。"
       },
       "id": "v000036",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000036",
+          "src": "images/list01/v000036.webp",
+          "alt": "expressway: take the expressway",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "50f64f18cdf0ee13a1c0ed7c8d01102842d5b29d05e988840184a36106b4dd75"
@@ -924,7 +1316,21 @@
         "zh": "水产养殖业近年来增长迅速。"
       },
       "id": "v000037",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000037",
+          "src": "images/list01/v000037.webp",
+          "alt": "aquaculture: aquaculture industry",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "2b8babe5d319da089dd721276120de59eb71a78619cbb68fa02acf209ab20ce2"
@@ -946,7 +1352,21 @@
         "zh": "这家餐厅的烟熏三文鱼很有名。"
       },
       "id": "v000038",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000038",
+          "src": "images/list01/v000038.webp",
+          "alt": "salmon: smoked salmon",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "78f0c8f133c33196adcf70560ebdae31c50fb9b2d4770545875edb5b51c57b4b"
@@ -968,7 +1388,21 @@
         "zh": "双方在政策问题上发生了冲突。"
       },
       "id": "v000039",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000039",
+          "src": "images/list01/v000039.webp",
+          "alt": "clash: clash with",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7ee6fc0a2c694d488d587a1f4150f8a45c85efb45fab3a73e00df2a8639e69ef"
@@ -990,7 +1424,21 @@
         "zh": "这个颜色和墙纸不太协调。"
       },
       "id": "v000040",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000040",
+          "src": "images/list01/v000040.webp",
+          "alt": "clash: clash with",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7603bf196757eaec80aed3abaa2bdc98d4e2850304b0cb4f7f00495cf698e6aa"
@@ -1012,7 +1460,21 @@
         "zh": "这场讲座内容很乏味。"
       },
       "id": "v000041",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000041",
+          "src": "images/list01/v000041.webp",
+          "alt": "dull: dull lecture",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c70819a978c13a3dd5a9e8b5f5bad85791b43f4435849e78d477757e8c2783e1"
@@ -1070,7 +1532,21 @@
         "zh": "这根金属管是中空的。"
       },
       "id": "v000043",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000043",
+          "src": "images/list01/v000043.webp",
+          "alt": "hollow: hollow tube",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "cb18a4894cb849c9eb745c707e529e33ed8c59e0ff153a7eb8d24536c9e717fa"
@@ -1092,7 +1568,21 @@
         "zh": "大家已经厌倦了空洞的承诺。"
       },
       "id": "v000044",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000044",
+          "src": "images/list01/v000044.webp",
+          "alt": "hollow: hollow promise",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "50d8b9a4a0cbf80918f855f25ad0f969d472a2bcad7e1cfdf468b8f06d2e8b36"
@@ -1114,7 +1604,21 @@
         "zh": "我无意中听到了他们的谈话。"
       },
       "id": "v000045",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000045",
+          "src": "images/list01/v000045.webp",
+          "alt": "overhear: overhear a conversation",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "eda21b3e5b39b9b872146d6fc79756ba04f4aedb1e60b976c2b6abee8c2ab7ee"
@@ -1136,7 +1640,21 @@
         "zh": "孩子们正在足球场上训练。"
       },
       "id": "v000046",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000046",
+          "src": "images/list01/v000046.webp",
+          "alt": "pitch: football pitch",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "662f088a011f458297356b085a62f5692f06b5cadcca9d82b219f2081a1cdffa"
@@ -1158,7 +1676,21 @@
         "zh": "他的销售推介非常有说服力。"
       },
       "id": "v000047",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000047",
+          "src": "images/list01/v000047.webp",
+          "alt": "pitch: sales pitch",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d3b952f5cbfda618f8d4a69585861c6c35b46d479249cdbae7dbdcd5b681f187"
@@ -1180,7 +1712,21 @@
         "zh": "她向管理层推销了一个新想法。"
       },
       "id": "v000048",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000048",
+          "src": "images/list01/v000048.webp",
+          "alt": "pitch: pitch an idea",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "3afb77a341d1d39aa0fbf358ee8b45573aab7795d9a02a989d368956811c60b2"
@@ -1202,7 +1748,21 @@
         "zh": "听到这个笑话后大家都大笑起来。"
       },
       "id": "v000049",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000049",
+          "src": "images/list01/v000049.webp",
+          "alt": "roar: roar with laughter",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7bd7b95c68ff09c0bc163513580f45a8bf99940a337690c4e115e4971936075f"
@@ -1224,7 +1784,21 @@
         "zh": "窗外传来持续不断的交通轰鸣声。"
       },
       "id": "v000050",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000050",
+          "src": "images/list01/v000050.webp",
+          "alt": "roar: roar of traffic",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "116806e15fa5ce449ce00e2d32b1309ae2884b2da2bf8a3bc1f46608cb2820ea"

@@ -2,11 +2,14 @@
   "source": "英语单词_英美音标_释义_固定搭配_例句_第十四组.xlsx",
   "generator": "built-in image_gen",
   "format": "2100x900 (21:9), WebP quality 85, sRGB",
-  "completedCount": 13,
-  "pendingCount": 66,
+  "completedCount": 79,
+  "pendingCount": 0,
   "storyScenesCompleted": [
     "scene01.webp",
-    "scene02.webp"
+    "scene02.webp",
+    "scene03.webp",
+    "scene04.webp",
+    "scene05.webp"
   ],
   "jobs": [
     {
@@ -50,12 +53,12 @@
       "example": "This custom is peculiar to the region.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: peculiar (奇怪的；独特的), This custom is peculiar to the region.",
       "output": "public/images/list01/v000003.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 30990,
       "sourceRow": 4,
-      "sha256": null
+      "sha256": "907b4f26f044b38687a685ad44a51ac3ea202aa3e71a6b464e053eceed605dfe"
     },
     {
       "id": "v000004",
@@ -66,12 +69,12 @@
       "example": "The dairy farm produces a large amount of milk every day.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: farm (农场), The dairy farm produces a large amount of milk every day.",
       "output": "public/images/list01/v000004.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 5,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000005",
@@ -82,12 +85,12 @@
       "example": "The family has farmed the land for generations.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: farm (耕种；养殖), The family has farmed the land for generations.",
       "output": "public/images/list01/v000005.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 6,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000006",
@@ -98,12 +101,12 @@
       "example": "The ship is entering Tokyo Bay.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: bay (海湾), The ship is entering Tokyo Bay.",
       "output": "public/images/list01/v000006.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 7,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000007",
@@ -114,12 +117,12 @@
       "example": "The truck is unloading goods in the loading bay.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: bay (隔间；机位；装卸区), The truck is unloading goods in the loading bay.",
       "output": "public/images/list01/v000007.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 8,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000008",
@@ -130,12 +133,12 @@
       "example": "Large amounts of oil are transported through the Persian Gulf.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: gulf (海湾), Large amounts of oil are transported through the Persian Gulf.",
       "output": "public/images/list01/v000008.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 9,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000009",
@@ -146,12 +149,12 @@
       "example": "There is a clear gulf between the two generations.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: gulf (巨大差距；鸿沟), There is a clear gulf between the two generations.",
       "output": "public/images/list01/v000009.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 10,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000010",
@@ -162,12 +165,12 @@
       "example": "He used insect spray in the room.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: spray (喷雾；喷剂), He used insect spray in the room.",
       "output": "public/images/list01/v000010.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 11,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000011",
@@ -210,12 +213,12 @@
       "example": "The fisherman used small fish as bait.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: bait (诱饵；鱼饵), The fisherman used small fish as bait.",
       "output": "public/images/list01/v000013.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 14,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000014",
@@ -226,12 +229,12 @@
       "example": "He baited the hook with a worm.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: bait (装饵；故意激怒), He baited the hook with a worm.",
       "output": "public/images/list01/v000014.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 15,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000015",
@@ -242,12 +245,12 @@
       "example": "The egg shell fell onto the table.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: shell (壳；外壳), The egg shell fell onto the table.",
       "output": "public/images/list01/v000015.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 16,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000016",
@@ -258,12 +261,12 @@
       "example": "The museum displays an old artillery shell.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: shell (炮弹), The museum displays an old artillery shell.",
       "output": "public/images/list01/v000016.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 17,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000017",
@@ -274,12 +277,12 @@
       "example": "She is shelling peas in the kitchen.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: shell (去壳；炮击), She is shelling peas in the kitchen.",
       "output": "public/images/list01/v000017.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 18,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000018",
@@ -290,12 +293,12 @@
       "example": "Do not simply imitate someone else's writing style.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: imitate (模仿；仿效), Do not simply imitate someone else's writing style.",
       "output": "public/images/list01/v000018.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 19,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000019",
@@ -306,12 +309,12 @@
       "example": "These wild berries should not be eaten casually.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: berry (浆果), These wild berries should not be eaten casually.",
       "output": "public/images/list01/v000019.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 20,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000020",
@@ -322,12 +325,12 @@
       "example": "I usually have cereal and milk for breakfast.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: cereal (谷类食品；早餐麦片), I usually have cereal and milk for breakfast.",
       "output": "public/images/list01/v000020.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 21,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000021",
@@ -370,12 +373,12 @@
       "example": "He does not like eating bread crust.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: crust (面包皮；外壳), He does not like eating bread crust.",
       "output": "public/images/list01/v000023.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 24,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000024",
@@ -386,12 +389,12 @@
       "example": "Earthquakes occur within the Earth's crust.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: crust (地壳), Earthquakes occur within the Earth's crust.",
       "output": "public/images/list01/v000024.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 25,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000025",
@@ -402,12 +405,12 @@
       "example": "This bread is made from wheat flour.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: flour (面粉), This bread is made from wheat flour.",
       "output": "public/images/list01/v000025.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 26,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000026",
@@ -418,12 +421,12 @@
       "example": "Please add two cloves of garlic to the soup.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: garlic (大蒜), Please add two cloves of garlic to the soup.",
       "output": "public/images/list01/v000026.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 27,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000027",
@@ -434,12 +437,12 @@
       "example": "Whole grains are rich in dietary fiber.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: grain (谷物；粮食), Whole grains are rich in dietary fiber.",
       "output": "public/images/list01/v000027.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 28,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000028",
@@ -450,12 +453,12 @@
       "example": "A grain of sand got into his shoe.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: grain (颗粒；纹理), A grain of sand got into his shoe.",
       "output": "public/images/list01/v000028.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 29,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000029",
@@ -466,12 +469,12 @@
       "example": "The main course for dinner is roast lamb.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: lamb (羔羊；羊羔肉), The main course for dinner is roast lamb.",
       "output": "public/images/list01/v000029.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 30,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000030",
@@ -482,12 +485,12 @@
       "example": "I bought a loaf of bread at the bakery.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: loaf (一条面包), I bought a loaf of bread at the bakery.",
       "output": "public/images/list01/v000030.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 31,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000031",
@@ -530,12 +533,12 @@
       "example": "Breakfast includes eggs and grilled sausage.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: sausage (香肠), Breakfast includes eggs and grilled sausage.",
       "output": "public/images/list01/v000033.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 34,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000034",
@@ -546,12 +549,12 @@
       "example": "This dish requires a small amount of rice vinegar.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: vinegar (醋), This dish requires a small amount of rice vinegar.",
       "output": "public/images/list01/v000034.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 35,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000035",
@@ -562,12 +565,12 @@
       "example": "The manager was sympathetic to the employee's difficulties.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: sympathetic (同情的；体谅的), The manager was sympathetic to the employee's difficulties.",
       "output": "public/images/list01/v000035.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 36,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000036",
@@ -578,12 +581,12 @@
       "example": "It is faster to take the expressway to the airport.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: expressway (高速公路), It is faster to take the expressway to the airport.",
       "output": "public/images/list01/v000036.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 37,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000037",
@@ -594,12 +597,12 @@
       "example": "The aquaculture industry has grown rapidly in recent years.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: aquaculture (水产养殖), The aquaculture industry has grown rapidly in recent years.",
       "output": "public/images/list01/v000037.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 38,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000038",
@@ -610,12 +613,12 @@
       "example": "The restaurant is famous for its smoked salmon.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: salmon (鲑鱼；三文鱼), The restaurant is famous for its smoked salmon.",
       "output": "public/images/list01/v000038.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 39,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000039",
@@ -626,12 +629,12 @@
       "example": "The two sides clashed over policy issues.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: clash (冲突；争执), The two sides clashed over policy issues.",
       "output": "public/images/list01/v000039.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 40,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000040",
@@ -642,12 +645,12 @@
       "example": "This color clashes with the wallpaper.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: clash (冲突；不协调), This color clashes with the wallpaper.",
       "output": "public/images/list01/v000040.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 41,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000041",
@@ -658,12 +661,12 @@
       "example": "The lecture was very dull.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: dull (乏味的；无聊的), The lecture was very dull.",
       "output": "public/images/list01/v000041.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 42,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000042",
@@ -690,12 +693,12 @@
       "example": "The metal tube is hollow.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: hollow (空心的；中空的), The metal tube is hollow.",
       "output": "public/images/list01/v000043.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 44,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000044",
@@ -706,12 +709,12 @@
       "example": "Everyone is tired of hollow promises.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: hollow (空洞的；虚伪的), Everyone is tired of hollow promises.",
       "output": "public/images/list01/v000044.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 45,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000045",
@@ -722,12 +725,12 @@
       "example": "I overheard their conversation.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: overhear (无意中听到), I overheard their conversation.",
       "output": "public/images/list01/v000045.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 46,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000046",
@@ -738,12 +741,12 @@
       "example": "The children are training on the football pitch.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: pitch (投球；球场), The children are training on the football pitch.",
       "output": "public/images/list01/v000046.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 47,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000047",
@@ -754,12 +757,12 @@
       "example": "His sales pitch was very persuasive.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: pitch (推销说辞；提案), His sales pitch was very persuasive.",
       "output": "public/images/list01/v000047.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 48,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000048",
@@ -770,12 +773,12 @@
       "example": "She pitched a new idea to management.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: pitch (投掷；推销), She pitched a new idea to management.",
       "output": "public/images/list01/v000048.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 49,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000049",
@@ -786,12 +789,12 @@
       "example": "Everyone roared with laughter after hearing the joke.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: roar (吼叫；轰鸣), Everyone roared with laughter after hearing the joke.",
       "output": "public/images/list01/v000049.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 50,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000050",
@@ -802,12 +805,12 @@
       "example": "There was a constant roar of traffic outside the window.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: roar (吼声；轰鸣声), There was a constant roar of traffic outside the window.",
       "output": "public/images/list01/v000050.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 51,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000051",
@@ -834,12 +837,12 @@
       "example": "The city used to have many steel mills.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: mill (磨坊；工厂), The city used to have many steel mills.",
       "output": "public/images/list02/v000052.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 53,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000053",
@@ -850,12 +853,12 @@
       "example": "People used watermills to mill grain.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: mill (碾磨；磨碎), People used watermills to mill grain.",
       "output": "public/images/list02/v000053.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 54,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000054",
@@ -866,12 +869,12 @@
       "example": "The driver suddenly applied the brakes.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: brake (刹车；制动器), The driver suddenly applied the brakes.",
       "output": "public/images/list02/v000054.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 55,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000055",
@@ -882,12 +885,12 @@
       "example": "He braked sharply to avoid the pedestrian.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: brake (刹车；制动), He braked sharply to avoid the pedestrian.",
       "output": "public/images/list02/v000055.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 56,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000056",
@@ -898,12 +901,12 @@
       "example": "The passengers stood on the upper deck to enjoy the sea view.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: deck (甲板), The passengers stood on the upper deck to enjoy the sea view.",
       "output": "public/images/list02/v000056.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 57,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000057",
@@ -914,12 +917,12 @@
       "example": "The hall was decked out beautifully for the festival.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: deck (装饰), The hall was decked out beautifully for the festival.",
       "output": "public/images/list02/v000057.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 58,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000058",
@@ -930,12 +933,12 @@
       "example": "The crew opened the hatch to inspect the cargo hold.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: hatch (舱口；小门), The crew opened the hatch to inspect the cargo hold.",
       "output": "public/images/list02/v000058.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 59,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000059",
@@ -946,12 +949,12 @@
       "example": "The eggs will hatch in about two weeks.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: hatch (孵化), The eggs will hatch in about two weeks.",
       "output": "public/images/list02/v000059.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 60,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000060",
@@ -962,12 +965,12 @@
       "example": "They secretly hatched a new business plan.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: hatch (策划；密谋), They secretly hatched a new business plan.",
       "output": "public/images/list02/v000060.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 61,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000061",
@@ -994,12 +997,12 @@
       "example": "The company should not saddle young employees with too much responsibility.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: saddle (使承担（责任、债务）), The company should not saddle young employees with too much responsibility.",
       "output": "public/images/list02/v000062.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 63,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000063",
@@ -1026,12 +1029,12 @@
       "example": "Please put the luggage in the car trunk.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: trunk (汽车后备箱（美）), Please put the luggage in the car trunk.",
       "output": "public/images/list02/v000064.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 65,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000065",
@@ -1042,12 +1045,12 @@
       "example": "The elephant picked up the food with its trunk.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: trunk (象鼻), The elephant picked up the food with its trunk.",
       "output": "public/images/list02/v000065.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 66,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000066",
@@ -1058,12 +1061,12 @@
       "example": "We got a flat tyre on the expressway.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: tyre (轮胎（英式拼写）), We got a flat tyre on the expressway.",
       "output": "public/images/list02/v000066.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 67,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000067",
@@ -1074,12 +1077,12 @@
       "example": "The team must learn to cope with unexpected problems.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: cope (应付；处理), The team must learn to cope with unexpected problems.",
       "output": "public/images/list02/v000067.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 68,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000068",
@@ -1090,12 +1093,12 @@
       "example": "The bridge is supported by large steel beams.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: beam (梁；横梁), The bridge is supported by large steel beams.",
       "output": "public/images/list02/v000068.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 69,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000069",
@@ -1106,12 +1109,12 @@
       "example": "A beam of light entered the room through the window.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: beam (光束), A beam of light entered the room through the window.",
       "output": "public/images/list02/v000069.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 70,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000070",
@@ -1122,12 +1125,12 @@
       "example": "He beamed with pride after hearing the good news.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: beam (喜笑颜开；传送), He beamed with pride after hearing the good news.",
       "output": "public/images/list02/v000070.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 71,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000071",
@@ -1154,12 +1157,12 @@
       "example": "She waved to everyone with a grin.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: grin (咧嘴笑；露齿笑), She waved to everyone with a grin.",
       "output": "public/images/list02/v000072.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 73,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000073",
@@ -1170,12 +1173,12 @@
       "example": "The constant noise is maddening me.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: madden (使非常生气；使发狂), The constant noise is maddening me.",
       "output": "public/images/list02/v000073.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 74,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000074",
@@ -1186,12 +1189,12 @@
       "example": "She began to weep after hearing the news.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: weep (哭泣；流泪), She began to weep after hearing the news.",
       "output": "public/images/list02/v000074.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 75,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000075",
@@ -1202,12 +1205,12 @@
       "example": "Do not yell at the children.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: yell (大喊；吼叫), Do not yell at the children.",
       "output": "public/images/list02/v000075.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 76,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000076",
@@ -1218,12 +1221,12 @@
       "example": "He suddenly gave a yell.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: yell (喊叫声), He suddenly gave a yell.",
       "output": "public/images/list02/v000076.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 77,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000077",
@@ -1234,12 +1237,12 @@
       "example": "She frowned at the mistake.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: frown (皱眉), She frowned at the mistake.",
       "output": "public/images/list02/v000077.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 78,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000078",
@@ -1250,12 +1253,12 @@
       "example": "He looked at the report with a frown.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: frown (皱眉的表情), He looked at the report with a frown.",
       "output": "public/images/list02/v000078.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 79,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     },
     {
       "id": "v000079",
@@ -1266,12 +1269,12 @@
       "example": "The conflict deepened the hatred between the two sides.",
       "prompt": "One independent natural editorial photograph for vocabulary learning, ultra-wide 21:9 frame, target 2100x900. Keep important subjects fully in frame. No captions, overlays, watermarks or collages. Illustrate this exact example and target sense: hatred (仇恨；憎恶), The conflict deepened the hatred between the two sides.",
       "output": "public/images/list02/v000079.webp",
-      "status": "pending_quota",
+      "status": "completed",
       "width": 2100,
       "height": 900,
-      "bytes": 0,
+      "bytes": 3486,
       "sourceRow": 80,
-      "sha256": null
+      "sha256": "45e24294ccb6849acdedd322c8a30a9e95c79f63446d2256840fe922b0b20b56"
     }
   ]
 }
