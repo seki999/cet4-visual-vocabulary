@@ -20,7 +20,21 @@
         "zh": "学习英语是一项值得的长期投资。"
       },
       "id": "v000051",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000051",
+          "src": "images/list02/v000051.webp",
+          "alt": "worthwhile: worthwhile investment",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f0776bf03df8a9032a82a9bb932dbce1c8f68518b7343667490a7b2b76f42b3e"
@@ -240,7 +254,21 @@
         "zh": "这个自行车座需要调高一点。"
       },
       "id": "v000061",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000061",
+          "src": "images/list02/v000061.webp",
+          "alt": "saddle: bicycle saddle",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "d7ed760830b86a8d9109498a07024795e5c9f27f00d674649f0f69192234551f"
@@ -284,7 +312,21 @@
         "zh": "这棵老树的树干非常粗。"
       },
       "id": "v000063",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000063",
+          "src": "images/list02/v000063.webp",
+          "alt": "trunk: tree trunk",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "b9dafe6e239237dda955a8f7c2c6ac877036d6085a9916f2ebab93479be9f59f"
@@ -460,7 +502,21 @@
         "zh": "听到好消息后，他咧嘴笑了。"
       },
       "id": "v000071",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000071",
+          "src": "images/list02/v000071.webp",
+          "alt": "grin: grin broadly",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "f5a59134844e3f58ee3060c13ac38648da9c4323bd8073c55473ca10e322e611"

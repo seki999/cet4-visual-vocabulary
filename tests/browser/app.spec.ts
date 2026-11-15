@@ -5,6 +5,9 @@ import type { List } from "../../src/types";
 const list01Data: List = JSON.parse(
   readFileSync("public/data/list01.json", "utf8"),
 );
+const list02Data: List = JSON.parse(
+  readFileSync("public/data/list02.json", "utf8"),
+);
 
 // Valid 2100x900 WebP test fixture for verifying 21:9 image layout, lightbox, and fullscreen behavior.
 const FIXTURE_2100X900_WEBP = Buffer.from(
@@ -105,11 +108,20 @@ async function mockList01Images(page: Page) {
   );
 }
 
-test("CET-4 vocabulary lists load and words without images display cleanly", async ({
+test("CET-4 vocabulary lists load and both illustrated and non-illustrated words display cleanly", async ({
   page,
 }) => {
   const pageErrors: string[] = [];
   page.on("pageerror", (e) => pageErrors.push(String(e)));
+
+  const list01WithImg = list01Data.items.filter(
+    (w) => w.images.length > 0,
+  ).length;
+  const list01Empty = list01Data.items.length - list01WithImg;
+  const list02WithImg = list02Data.items.filter(
+    (w) => w.images.length > 0,
+  ).length;
+  const list02Empty = list02Data.items.length - list02WithImg;
 
   await page.goto("/");
   await expect(page.locator(".brand")).toContainText("CET-4");
@@ -118,7 +130,22 @@ test("CET-4 vocabulary lists load and words without images display cleanly", asy
     "strive",
   );
   await expect(page.locator(".word-content h2").last()).toContainText("roar");
-  await expect(page.locator(".empty-image")).toHaveCount(50);
+  await expect(page.locator(".picture img")).toHaveCount(list01WithImg);
+  await expect(page.locator(".empty-image")).toHaveCount(list01Empty);
+  if (list01WithImg > 0) {
+    await expect
+      .poll(async () =>
+        page
+          .locator(".picture img")
+          .first()
+          .evaluate((img: HTMLImageElement) =>
+            img.complete
+              ? `${img.naturalWidth}x${img.naturalHeight}`
+              : "loading",
+          ),
+      )
+      .toBe("2100x900");
+  }
 
   await page.getByRole("button", { name: "List 02", exact: false }).click();
   await expect(page.locator(".card")).toHaveCount(29);
@@ -126,7 +153,8 @@ test("CET-4 vocabulary lists load and words without images display cleanly", asy
     "worthwhile",
   );
   await expect(page.locator(".word-content h2").last()).toContainText("hatred");
-  await expect(page.locator(".empty-image")).toHaveCount(29);
+  await expect(page.locator(".picture img")).toHaveCount(list02WithImg);
+  await expect(page.locator(".empty-image")).toHaveCount(list02Empty);
   expect(pageErrors).toEqual([]);
 });
 

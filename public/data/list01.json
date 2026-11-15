@@ -20,7 +20,21 @@
         "zh": "我们应该努力不断提高自己的技能。"
       },
       "id": "v000001",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000001",
+          "src": "images/list01/v000001.webp",
+          "alt": "strive: strive to do",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "79ae6bec988ecb5d1d6ae690b9c7c18ada4da308fe15dcb12a61990e2f6bc687"
@@ -42,7 +56,21 @@
         "zh": "这辆卡车可以运载一公吨货物。"
       },
       "id": "v000002",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000002",
+          "src": "images/list01/v000002.webp",
+          "alt": "tonne: a tonne of",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "c0b3f4a9db936eeb1e155859f39834a31ea7ea4eee1309067eb5d24821fda527"
@@ -240,7 +268,21 @@
         "zh": "园丁给植物喷了水。"
       },
       "id": "v000011",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000011",
+          "src": "images/list01/v000011.webp",
+          "alt": "spray: spray with",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "e23b3ce44cae7317d75ee181a7198aae4cec6059bfd00e9b53bf3219d70c9ecd"
@@ -262,7 +304,21 @@
         "zh": "不要把这个设备完全浸入水中。"
       },
       "id": "v000012",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000012",
+          "src": "images/list01/v000012.webp",
+          "alt": "submerge: submerge in water",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "51a7952c5199fab5d160af7dc856ff6880020378913e32899649a192a78d2c23"
@@ -460,7 +516,21 @@
         "zh": "请把洋葱和胡萝卜切碎。"
       },
       "id": "v000021",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000021",
+          "src": "images/list01/v000021.webp",
+          "alt": "chop: chop vegetables",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "821d28d61b87c6af1f174d32f0a8ffa693abbdf708295780ebd6c5aa5ad2ef93"
@@ -482,7 +552,21 @@
         "zh": "这家餐厅的烤羊排很受欢迎。"
       },
       "id": "v000022",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000022",
+          "src": "images/list01/v000022.webp",
+          "alt": "chop: lamb chop",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "7fb85bd89b51cf91efc5cd9e34d96a9f9e8a3061459022a6531e857f5db36e6a"
@@ -680,7 +764,21 @@
         "zh": "汤里放了一些青豌豆。"
       },
       "id": "v000031",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000031",
+          "src": "images/list01/v000031.webp",
+          "alt": "pea: green peas",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "6426374a61900362d1d021c81a996660cb43a1a3aeab3f7126dc1dc8e2123b8a"
@@ -702,7 +800,21 @@
         "zh": "请在牛排上撒一点黑胡椒。"
       },
       "id": "v000032",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000032",
+          "src": "images/list01/v000032.webp",
+          "alt": "pepper: black pepper",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "594b1b15bfb939abfc789b2cf0d4239bbc2280574e87b6899569163f44a16d0e"
@@ -922,7 +1034,21 @@
         "zh": "这把刀太钝了，切不动肉。"
       },
       "id": "v000042",
-      "images": [],
+      "images": [
+        {
+          "id": "generated-v000042",
+          "src": "images/list01/v000042.webp",
+          "alt": "dull: dull knife",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
       "tags": [],
       "notes": "",
       "sourceKey": "4451bf7557b4f522bde0b2bd249ab152dc0c18f3528ac5191a6256be422558aa"

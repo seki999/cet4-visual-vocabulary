@@ -97,7 +97,8 @@ npm run build
 - 每个词条支持一张主图，推荐使用 **21:9 比例（2100×900）、WebP 格式**。
 - 支持图片添加、更换、删除、宽度/固定高度/比例（原图、4:3、1:1、16:9）切换、缩放、旋转、铺满/完整显示、位置调整、大图预览（适应屏幕/放大细节）及导出。
 - 批量生成提示词规范见 [CET-4 英语词汇图片批量生成模式 — 全局规则](docs/cet4-image-generation-batch-rules.md)。
-- Story Review 维护与扩展说明见 [Story Review 维护说明](docs/story-review.md)。
+- 词汇配图批次清单与状态记录见 [docs/vocabulary-images-20261115.json](docs/vocabulary-images-20261115.json)。
+- Story Review 维护说明与场景提示词见 [Story Review 维护说明](docs/story-review.md) 与 [Story Review 场景图片提示词](docs/story-image-prompts.md)。
 
 ---
 
