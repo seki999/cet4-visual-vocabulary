@@ -1,0 +1,423 @@
+{
+  "generator": "built-in image_gen",
+  "format": "2100x900 WebP, quality 85, sRGB",
+  "jobs": [
+    {
+      "output": "public/images/list01/v000001.webp",
+      "example": "We should strive to improve our skills continuously.",
+      "prompt": "Ultra-wide 21:9 natural editorial photograph for CET-4, illustrating 'We should strive to improve our skills continuously.' A young adult practicing a difficult woodworking joint at a workshop bench, several progressively improved practice joints visibly arranged nearby. Clear deliberate effort, natural window light, subject and hands in the central band, no lettering or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000002.webp",
+      "example": "The truck can carry a tonne of goods.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The truck can carry a tonne of goods. Target word: tonne, intended sense: 公吨（1000千克）. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000003.webp",
+      "example": "This custom is peculiar to the region.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: This custom is peculiar to the region. Target word: peculiar, intended sense: 奇怪的；独特的. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000004.webp",
+      "example": "The dairy farm produces a large amount of milk every day.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The dairy farm produces a large amount of milk every day. Target word: farm, intended sense: 农场. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000005.webp",
+      "example": "The family has farmed the land for generations.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The family has farmed the land for generations. Target word: farm, intended sense: 耕种；养殖. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000006.webp",
+      "example": "The ship is entering Tokyo Bay.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The ship is entering Tokyo Bay. Target word: bay, intended sense: 海湾. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000007.webp",
+      "example": "The truck is unloading goods in the loading bay.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The truck is unloading goods in the loading bay. Target word: bay, intended sense: 隔间；机位；装卸区. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000008.webp",
+      "example": "Large amounts of oil are transported through the Persian Gulf.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Large amounts of oil are transported through the Persian Gulf. Target word: gulf, intended sense: 海湾. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000009.webp",
+      "example": "There is a clear gulf between the two generations.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: There is a clear gulf between the two generations. Target word: gulf, intended sense: 巨大差距；鸿沟. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000010.webp",
+      "example": "He used insect spray in the room.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: He used insect spray in the room. Target word: spray, intended sense: 喷雾；喷剂. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000011.webp",
+      "example": "The gardener sprayed the plants with water.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The gardener sprayed the plants with water. Target word: spray, intended sense: 喷洒；喷射. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000012.webp",
+      "example": "Do not submerge the device completely in water.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Do not submerge the device completely in water. Target word: submerge, intended sense: 浸没；潜入水中. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000013.webp",
+      "example": "The fisherman used small fish as bait.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The fisherman used small fish as bait. Target word: bait, intended sense: 诱饵；鱼饵. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000014.webp",
+      "example": "He baited the hook with a worm.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: He baited the hook with a worm. Target word: bait, intended sense: 装饵；故意激怒. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000015.webp",
+      "example": "The egg shell fell onto the table.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The egg shell fell onto the table. Target word: shell, intended sense: 壳；外壳. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000016.webp",
+      "example": "The museum displays an old artillery shell.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The museum displays an old artillery shell. Target word: shell, intended sense: 炮弹. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000017.webp",
+      "example": "She is shelling peas in the kitchen.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: She is shelling peas in the kitchen. Target word: shell, intended sense: 去壳；炮击. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000018.webp",
+      "example": "Do not simply imitate someone else's writing style.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Do not simply imitate someone else's writing style. Target word: imitate, intended sense: 模仿；仿效. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000019.webp",
+      "example": "These wild berries should not be eaten casually.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: These wild berries should not be eaten casually. Target word: berry, intended sense: 浆果. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000020.webp",
+      "example": "I usually have cereal and milk for breakfast.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: I usually have cereal and milk for breakfast. Target word: cereal, intended sense: 谷类食品；早餐麦片. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000021.webp",
+      "example": "Please chop the onions and carrots.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Please chop the onions and carrots. Target word: chop, intended sense: 切碎；砍. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000022.webp",
+      "example": "The restaurant's grilled lamb chops are very popular.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The restaurant's grilled lamb chops are very popular. Target word: chop, intended sense: 排骨；肉排. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000023.webp",
+      "example": "He does not like eating bread crust.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: He does not like eating bread crust. Target word: crust, intended sense: 面包皮；外壳. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000024.webp",
+      "example": "Earthquakes occur within the Earth's crust.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Earthquakes occur within the Earth's crust. Target word: crust, intended sense: 地壳. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000025.webp",
+      "example": "This bread is made from wheat flour.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: This bread is made from wheat flour. Target word: flour, intended sense: 面粉. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000026.webp",
+      "example": "Please add two cloves of garlic to the soup.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Please add two cloves of garlic to the soup. Target word: garlic, intended sense: 大蒜. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000027.webp",
+      "example": "Whole grains are rich in dietary fiber.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Whole grains are rich in dietary fiber. Target word: grain, intended sense: 谷物；粮食. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000028.webp",
+      "example": "A grain of sand got into his shoe.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: A grain of sand got into his shoe. Target word: grain, intended sense: 颗粒；纹理. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000029.webp",
+      "example": "The main course for dinner is roast lamb.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The main course for dinner is roast lamb. Target word: lamb, intended sense: 羔羊；羊羔肉. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000030.webp",
+      "example": "I bought a loaf of bread at the bakery.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: I bought a loaf of bread at the bakery. Target word: loaf, intended sense: 一条面包. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000031.webp",
+      "example": "There are some green peas in the soup.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: There are some green peas in the soup. Target word: pea, intended sense: 豌豆. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000032.webp",
+      "example": "Please add a little black pepper to the steak.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Please add a little black pepper to the steak. Target word: pepper, intended sense: 胡椒；辣椒. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000033.webp",
+      "example": "Breakfast includes eggs and grilled sausage.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Breakfast includes eggs and grilled sausage. Target word: sausage, intended sense: 香肠. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000034.webp",
+      "example": "This dish requires a small amount of rice vinegar.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: This dish requires a small amount of rice vinegar. Target word: vinegar, intended sense: 醋. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000035.webp",
+      "example": "The manager was sympathetic to the employee's difficulties.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The manager was sympathetic to the employee's difficulties. Target word: sympathetic, intended sense: 同情的；体谅的. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000036.webp",
+      "example": "It is faster to take the expressway to the airport.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: It is faster to take the expressway to the airport. Target word: expressway, intended sense: 高速公路. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000037.webp",
+      "example": "The aquaculture industry has grown rapidly in recent years.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The aquaculture industry has grown rapidly in recent years. Target word: aquaculture, intended sense: 水产养殖. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000038.webp",
+      "example": "The restaurant is famous for its smoked salmon.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The restaurant is famous for its smoked salmon. Target word: salmon, intended sense: 鲑鱼；三文鱼. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000039.webp",
+      "example": "The two sides clashed over policy issues.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The two sides clashed over policy issues. Target word: clash, intended sense: 冲突；争执. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000040.webp",
+      "example": "This color clashes with the wallpaper.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: This color clashes with the wallpaper. Target word: clash, intended sense: 冲突；不协调. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000041.webp",
+      "example": "The lecture was very dull.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The lecture was very dull. Target word: dull, intended sense: 乏味的；无聊的. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000042.webp",
+      "example": "This knife is too dull to cut the meat.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: This knife is too dull to cut the meat. Target word: dull, intended sense: 钝的；不锋利的. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000043.webp",
+      "example": "The metal tube is hollow.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The metal tube is hollow. Target word: hollow, intended sense: 空心的；中空的. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000044.webp",
+      "example": "Everyone is tired of hollow promises.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Everyone is tired of hollow promises. Target word: hollow, intended sense: 空洞的；虚伪的. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000045.webp",
+      "example": "I overheard their conversation.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: I overheard their conversation. Target word: overhear, intended sense: 无意中听到. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000046.webp",
+      "example": "The children are training on the football pitch.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The children are training on the football pitch. Target word: pitch, intended sense: 投球；球场. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000047.webp",
+      "example": "His sales pitch was very persuasive.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: His sales pitch was very persuasive. Target word: pitch, intended sense: 推销说辞；提案. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000048.webp",
+      "example": "She pitched a new idea to management.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: She pitched a new idea to management. Target word: pitch, intended sense: 投掷；推销. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000049.webp",
+      "example": "Everyone roared with laughter after hearing the joke.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Everyone roared with laughter after hearing the joke. Target word: roar, intended sense: 吼叫；轰鸣. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list01/v000050.webp",
+      "example": "There was a constant roar of traffic outside the window.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: There was a constant roar of traffic outside the window. Target word: roar, intended sense: 吼声；轰鸣声. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000051.webp",
+      "example": "Learning English is a worthwhile long-term investment.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Learning English is a worthwhile long-term investment. Target word: worthwhile, intended sense: 值得的；有价值的. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000052.webp",
+      "example": "The city used to have many steel mills.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The city used to have many steel mills. Target word: mill, intended sense: 磨坊；工厂. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000053.webp",
+      "example": "People used watermills to mill grain.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: People used watermills to mill grain. Target word: mill, intended sense: 碾磨；磨碎. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000054.webp",
+      "example": "The driver suddenly applied the brakes.",
+      "prompt": "Natural editorial photograph for CET-4: 'The driver suddenly applied the brakes.' In bright daylight, seen from the front passenger seat of a compact car, a woman driving in a rust-colored jacket snaps alert as a cardboard box tumbles from a delivery van into her lane. Show her firm grip, quick braking posture, and the hazard through the windshield in one plausible single shot. Wide 21:9 everyday photography, no overlays or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000055.webp",
+      "example": "He braked sharply to avoid the pedestrian.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: He braked sharply to avoid the pedestrian. Target word: brake, intended sense: 刹车；制动. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000056.webp",
+      "example": "The passengers stood on the upper deck to enjoy the sea view.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The passengers stood on the upper deck to enjoy the sea view. Target word: deck, intended sense: 甲板. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000057.webp",
+      "example": "The hall was decked out beautifully for the festival.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The hall was decked out beautifully for the festival. Target word: deck, intended sense: 装饰. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000058.webp",
+      "example": "The crew opened the hatch to inspect the cargo hold.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The crew opened the hatch to inspect the cargo hold. Target word: hatch, intended sense: 舱口；小门. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000059.webp",
+      "example": "The eggs will hatch in about two weeks.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The eggs will hatch in about two weeks. Target word: hatch, intended sense: 孵化. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000060.webp",
+      "example": "They secretly hatched a new business plan.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: They secretly hatched a new business plan. Target word: hatch, intended sense: 策划；密谋. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000061.webp",
+      "example": "The bicycle saddle needs to be raised slightly.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The bicycle saddle needs to be raised slightly. Target word: saddle, intended sense: 马鞍；车座. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000062.webp",
+      "example": "The company should not saddle young employees with too much responsibility.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The company should not saddle young employees with too much responsibility. Target word: saddle, intended sense: 使承担（责任、债务）. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000063.webp",
+      "example": "The trunk of the old tree is very thick.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The trunk of the old tree is very thick. Target word: trunk, intended sense: 树干. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000064.webp",
+      "example": "Please put the luggage in the car trunk.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: Please put the luggage in the car trunk. Target word: trunk, intended sense: 汽车后备箱（美）. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000065.webp",
+      "example": "The elephant picked up the food with its trunk.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The elephant picked up the food with its trunk. Target word: trunk, intended sense: 象鼻. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000066.webp",
+      "example": "We got a flat tyre on the expressway.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: We got a flat tyre on the expressway. Target word: tyre, intended sense: 轮胎（英式拼写）. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000067.webp",
+      "example": "The team must learn to cope with unexpected problems.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The team must learn to cope with unexpected problems. Target word: cope, intended sense: 应付；处理. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000068.webp",
+      "example": "The bridge is supported by large steel beams.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The bridge is supported by large steel beams. Target word: beam, intended sense: 梁；横梁. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000069.webp",
+      "example": "A beam of light entered the room through the window.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: A beam of light entered the room through the window. Target word: beam, intended sense: 光束. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000070.webp",
+      "example": "He beamed with pride after hearing the good news.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: He beamed with pride after hearing the good news. Target word: beam, intended sense: 喜笑颜开；传送. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000071.webp",
+      "example": "He grinned broadly after hearing the good news.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: He grinned broadly after hearing the good news. Target word: grin, intended sense: 咧嘴笑. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000072.webp",
+      "example": "She waved to everyone with a grin.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: She waved to everyone with a grin. Target word: grin, intended sense: 咧嘴笑；露齿笑. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000073.webp",
+      "example": "The constant noise is maddening me.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The constant noise is maddening me. Target word: madden, intended sense: 使非常生气；使发狂. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000074.webp",
+      "example": "She began to weep after hearing the news.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: She began to weep after hearing the news. Target word: weep, intended sense: 哭泣；流泪. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000075.webp",
+      "example": "Do not yell at the children.",
+      "prompt": "Create a 21:9 natural editorial photograph of an everyday moment of calm family communication. An adult crouches to eye level with two school-age siblings in a sunlit living room, hands relaxed and speaking gently while the children listen comfortably. The teaching point is the English sentence 'Do not yell at the children.' Show the positive behavior expressed by the instruction. No typography or watermark."
+    },
+    {
+      "output": "public/images/list02/v000076.webp",
+      "example": "He suddenly gave a yell.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: He suddenly gave a yell. Target word: yell, intended sense: 喊叫声. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000077.webp",
+      "example": "She frowned at the mistake.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: She frowned at the mistake. Target word: frown, intended sense: 皱眉. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000078.webp",
+      "example": "He looked at the report with a frown.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: He looked at the report with a frown. Target word: frown, intended sense: 皱眉的表情. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    },
+    {
+      "output": "public/images/list02/v000079.webp",
+      "example": "The conflict deepened the hatred between the two sides.",
+      "prompt": "Create one independent natural editorial photograph for a CET-4 flashcard. Exact example: The conflict deepened the hatred between the two sides. Target word: hatred, intended sense: 仇恨；憎恶. Show the precise action and its context using immediately recognizable real-world visual evidence. Use a single candid scene, realistic anatomy and lighting, balanced ultra-wide 21:9 composition with important details within central 80%. No added text, borders, or watermarks."
+    }
+  ],
+  "storyScenes": [
+    {
+      "output": "public/images/stories/list01/scene01.webp",
+      "prompt": "One cinematic documentary photograph for this English-learning story scene, titled Arrival at the Coastal Farm. Ground the image in the English dialogue: We must strive to improve our skills continuously as we prepare a tonne of fresh produce at this dairy farm. This coastal custom is peculiar to the region where families have farmed the land near the calm bay for generations. The delivery truck is already unloading goods in the loading bay after taking the expressway from the city. Ships cross the distant gulf for trade, yet there is still a clear gulf between the two generations on how to modernize. Choose the main physical action and natural setting implied by the dialogue. Recurring cast when relevant: Anna is an East Asian woman with shoulder-length dark hair and sage green jacket; Ben is a white man with short brown hair, glasses and light blue shirt; Leo is a Black man with close-cropped hair and navy work jacket; Maya is a South Asian woman with long dark hair and burgundy cardigan. Natural anatomy, eye-level candid framing, ultra-wide 21:9, subjects clear of crop edges, no overlays, captions, watermarks or collage."
+    },
+    {
+      "output": "public/images/stories/list01/scene02.webp",
+      "prompt": "One cinematic documentary photograph for this English-learning story scene, titled Greenhouse and Aquaculture Care. Ground the image in the English dialogue: Instead of harsh insect spray, the gardener sprayed the plants with clean water this morning. In our aquaculture industry tanks, do not submerge the sensor completely in water while feeding the salmon. The old fisherman used small fish as bait and showed the students how to bait a hook patiently. At the local museum, an old artillery shell sits beside a fossilized egg shell found in the Earth's crust. Not even a grain of sand entered the hollow metal tube that protects our underwater cable. Choose the main physical action and natural setting implied by the dialogue. Recurring cast when relevant: Anna is an East Asian woman with shoulder-length dark hair and sage green jacket; Ben is a white man with short brown hair, glasses and light blue shirt; Leo is a Black man with close-cropped hair and navy work jacket; Maya is a South Asian woman with long dark hair and burgundy cardigan. Natural anatomy, eye-level candid framing, ultra-wide 21:9, subjects clear of crop edges, no overlays, captions, watermarks or collage."
+    },
+    {
+      "output": "public/images/stories/list01/scene03.webp",
+      "prompt": "One cinematic documentary photograph for this English-learning story scene, titled Busy Harvest Kitchen. Ground the image in the English dialogue: While shelling peas for the green peas soup, do not simply imitate someone else's cooking style. We served breakfast cereal with milk and warned hikers that wild berries should not be eaten casually. This knife is too dull to cut meat, so sharpen it before you chop the onions and prepare the grilled lamb chop. This loaf of bread is baked from whole grain and wheat flour, so even the bread crust is crispy. For dinner, we season the roast lamb and grilled sausage with two cloves of garlic, black pepper, and rice vinegar. Choose the main physical action and natural setting implied by the dialogue. Recurring cast when relevant: Anna is an East Asian woman with shoulder-length dark hair and sage green jacket; Ben is a white man with short brown hair, glasses and light blue shirt; Leo is a Black man with close-cropped hair and navy work jacket; Maya is a South Asian woman with long dark hair and burgundy cardigan. Natural anatomy, eye-level candid framing, ultra-wide 21:9, subjects clear of crop edges, no overlays, captions, watermarks or collage."
+    },
+    {
+      "output": "public/images/stories/list01/scene04.webp",
+      "prompt": "One cinematic documentary photograph for this English-learning story scene, titled Resolving the Community Clash. Ground the image in the English dialogue: I overheard their conversation after the dull lecture, and everyone is tired of hollow promises. Although the two sides clashed over budget issues and the bright banner clashes with the wallpaper, our manager remains sympathetic to everyone's difficulties. Choose the main physical action and natural setting implied by the dialogue. Recurring cast when relevant: Anna is an East Asian woman with shoulder-length dark hair and sage green jacket; Ben is a white man with short brown hair, glasses and light blue shirt; Leo is a Black man with close-cropped hair and navy work jacket; Maya is a South Asian woman with long dark hair and burgundy cardigan. Natural anatomy, eye-level candid framing, ultra-wide 21:9, subjects clear of crop edges, no overlays, captions, watermarks or collage."
+    },
+    {
+      "output": "public/images/stories/list01/scene05.webp",
+      "prompt": "One cinematic documentary photograph for this English-learning story scene, titled Celebration on the Football Pitch. Ground the image in the English dialogue: Next to the football pitch, she pitched a new idea to management with a persuasive sales pitch. Far from the roar of traffic, everyone roared with laughter as the harvest festival began. Choose the main physical action and natural setting implied by the dialogue. Recurring cast when relevant: Anna is an East Asian woman with shoulder-length dark hair and sage green jacket; Ben is a white man with short brown hair, glasses and light blue shirt; Leo is a Black man with close-cropped hair and navy work jacket; Maya is a South Asian woman with long dark hair and burgundy cardigan. Natural anatomy, eye-level candid framing, ultra-wide 21:9, subjects clear of crop edges, no overlays, captions, watermarks or collage."
+    }
+  ]
+}
