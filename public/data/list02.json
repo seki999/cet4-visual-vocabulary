@@ -1046,6 +1046,762 @@
       "tags": [],
       "notes": "",
       "sourceKey": "3e4ad08adc8dbcbbbc7d9bfa2e12e15d20169a1e905afe627df56680b2cc5b05"
+    },
+    {
+      "word": "spite",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/spaɪt/",
+        "us": "/spaɪt/"
+      },
+      "meaning": "恶意；怨恨",
+      "collocation": {
+        "en": "in spite of",
+        "zh": "尽管；不管"
+      },
+      "example": {
+        "en": "In spite of the rain, we left as planned.",
+        "zh": "尽管下雨，我们还是按计划出发了。"
+      },
+      "id": "v000080",
+      "images": [
+        {
+          "id": "generated-v000080",
+          "src": "images/list02/v000080.webp",
+          "alt": "spite: In spite of the rain, we left as planned.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "32d1756b6c78b501b54e6a9ad1724d105e887b68b71a8978400353ec9c9137f4"
+    },
+    {
+      "word": "spite",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/spaɪt/",
+        "us": "/spaɪt/"
+      },
+      "meaning": "故意刁难；使恼怒",
+      "collocation": {
+        "en": "spite someone",
+        "zh": "故意刁难某人"
+      },
+      "example": {
+        "en": "He did it simply to spite the other person.",
+        "zh": "他这样做只是为了故意气对方。"
+      },
+      "id": "v000081",
+      "images": [
+        {
+          "id": "generated-v000081",
+          "src": "images/list02/v000081.webp",
+          "alt": "spite: He did it simply to spite the other person.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "332212a64d52abdd06003b1badfb6eaa6d379e64033d51a158388772a22e3df6"
+    },
+    {
+      "word": "clap",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/klæp/",
+        "us": "/klæp/"
+      },
+      "meaning": "鼓掌；拍手",
+      "collocation": {
+        "en": "clap one's hands",
+        "zh": "拍手"
+      },
+      "example": {
+        "en": "The audience clapped enthusiastically after the performance.",
+        "zh": "演出结束后观众热烈鼓掌。"
+      },
+      "id": "v000082",
+      "images": [
+        {
+          "id": "generated-v000082",
+          "src": "images/list02/v000082.webp",
+          "alt": "clap: The audience clapped enthusiastically after the performance.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "63c03d211a02260c2df77b00e4c9ea77a29c525ab68c4e58ed8b7f3f7f290d80"
+    },
+    {
+      "word": "clap",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/klæp/",
+        "us": "/klæp/"
+      },
+      "meaning": "拍手声；掌声",
+      "collocation": {
+        "en": "a round of applause",
+        "zh": "一阵掌声"
+      },
+      "example": {
+        "en": "The speech ended with a round of applause.",
+        "zh": "演讲结束时全场响起一阵掌声。"
+      },
+      "id": "v000083",
+      "images": [
+        {
+          "id": "generated-v000083",
+          "src": "images/list02/v000083.webp",
+          "alt": "clap: The speech ended with a round of applause.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "901794fd403885a68a8a306bbf2632e3c7b3e2f7e3fa2950ee6b9ba1f8a34db4"
+    },
+    {
+      "word": "clown",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/klaʊn/",
+        "us": "/klaʊn/"
+      },
+      "meaning": "小丑；滑稽的人",
+      "collocation": {
+        "en": "circus clown",
+        "zh": "马戏团小丑"
+      },
+      "example": {
+        "en": "The circus clown made the children laugh.",
+        "zh": "孩子们被马戏团小丑逗得哈哈大笑。"
+      },
+      "id": "v000084",
+      "images": [
+        {
+          "id": "generated-v000084",
+          "src": "images/list02/v000084.webp",
+          "alt": "clown: The circus clown made the children laugh.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9c1efddf83844b4c7e3026271a72a83339802c81f50b021ddc7aba0dd945de50"
+    },
+    {
+      "word": "principal",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈprɪnsəpl/",
+        "us": "/ˈprɪnsəpl/"
+      },
+      "meaning": "校长；负责人",
+      "collocation": {
+        "en": "school principal",
+        "zh": "学校校长"
+      },
+      "example": {
+        "en": "The school principal gave a speech at the graduation ceremony.",
+        "zh": "校长在毕业典礼上发表了讲话。"
+      },
+      "id": "v000085",
+      "images": [
+        {
+          "id": "generated-v000085",
+          "src": "images/list02/v000085.webp",
+          "alt": "principal: The school principal gave a speech at the graduation ceremony.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "86e0685b040fa9cb1fb33e0e49169c94a8d9e2bb90979ab80a590d13bcb16f19"
+    },
+    {
+      "word": "principal",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈprɪnsəpl/",
+        "us": "/ˈprɪnsəpl/"
+      },
+      "meaning": "主要的；最重要的",
+      "collocation": {
+        "en": "principal reason",
+        "zh": "主要原因"
+      },
+      "example": {
+        "en": "Rising costs were the principal reason for the project delay.",
+        "zh": "成本上升是项目延期的主要原因。"
+      },
+      "id": "v000086",
+      "images": [
+        {
+          "id": "generated-v000086",
+          "src": "images/list02/v000086.webp",
+          "alt": "principal: Rising costs were the principal reason for the project delay.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6280aec94351da6189e0b97345abf2874cb4f1cb3cdc4f4b549fe7c861b74955"
+    },
+    {
+      "word": "pace",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/peɪs/",
+        "us": "/peɪs/"
+      },
+      "meaning": "步速；速度；节奏",
+      "collocation": {
+        "en": "at a steady pace",
+        "zh": "以稳定的速度"
+      },
+      "example": {
+        "en": "The team is moving the project forward at a steady pace.",
+        "zh": "团队正以稳定的速度推进项目。"
+      },
+      "id": "v000087",
+      "images": [
+        {
+          "id": "generated-v000087",
+          "src": "images/list02/v000087.webp",
+          "alt": "pace: The team is moving the project forward at a steady pace.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "915b3a6bff76caffd74d35cd5d17f0070baa72825c75f52c835be6d8f03c7ae9"
+    },
+    {
+      "word": "pace",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/peɪs/",
+        "us": "/peɪs/"
+      },
+      "meaning": "来回踱步；调整节奏",
+      "collocation": {
+        "en": "pace back and forth",
+        "zh": "来回踱步"
+      },
+      "example": {
+        "en": "He paced back and forth outside the meeting room.",
+        "zh": "他在会议室外来回踱步。"
+      },
+      "id": "v000088",
+      "images": [
+        {
+          "id": "generated-v000088",
+          "src": "images/list02/v000088.webp",
+          "alt": "pace: He paced back and forth outside the meeting room.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "800485f5c2b7801ca5dd1917cbe30bbb1fb076586553f31df839d45fad30eabd"
+    },
+    {
+      "word": "canteen",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kænˈtiːn/",
+        "us": "/kænˈtiːn/"
+      },
+      "meaning": "食堂；餐厅",
+      "collocation": {
+        "en": "school canteen",
+        "zh": "学校食堂"
+      },
+      "example": {
+        "en": "The students have lunch in the school canteen.",
+        "zh": "学生们中午在学校食堂吃饭。"
+      },
+      "id": "v000089",
+      "images": [
+        {
+          "id": "generated-v000089",
+          "src": "images/list02/v000089.webp",
+          "alt": "canteen: The students have lunch in the school canteen.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9e4cac213dd7d985503dcc66090ecd0c66c22fcbdcc8ed98a66680d46621e355"
+    },
+    {
+      "word": "diploma",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɪˈpləʊmə/",
+        "us": "/dɪˈploʊmə/"
+      },
+      "meaning": "毕业文凭；证书",
+      "collocation": {
+        "en": "receive a diploma",
+        "zh": "获得文凭"
+      },
+      "example": {
+        "en": "She received a diploma after completing the course.",
+        "zh": "她完成课程后获得了毕业文凭。"
+      },
+      "id": "v000090",
+      "images": [
+        {
+          "id": "generated-v000090",
+          "src": "images/list02/v000090.webp",
+          "alt": "diploma: She received a diploma after completing the course.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f3df65671c1942d7b794946bd707ce7f114c5dab7e278fcebdcfab03c4200f8a"
+    },
+    {
+      "word": "dorm",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dɔːm/",
+        "us": "/dɔːrm/"
+      },
+      "meaning": "宿舍（非正式）",
+      "collocation": {
+        "en": "college dorm",
+        "zh": "大学宿舍"
+      },
+      "example": {
+        "en": "He lived in a college dorm during his first year.",
+        "zh": "他大学第一年住在宿舍。"
+      },
+      "id": "v000091",
+      "images": [
+        {
+          "id": "generated-v000091",
+          "src": "images/list02/v000091.webp",
+          "alt": "dorm: He lived in a college dorm during his first year.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e57d055fecc238be6785bb2b039eb03eb2024740f7482b3064ebfc1135ca8c59"
+    },
+    {
+      "word": "dropout",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdrɒpaʊt/",
+        "us": "/ˈdrɑːpaʊt/"
+      },
+      "meaning": "辍学者；退出者",
+      "collocation": {
+        "en": "school dropout",
+        "zh": "辍学者"
+      },
+      "example": {
+        "en": "The program aims to help school dropouts return to education.",
+        "zh": "这个项目旨在帮助辍学青年重返教育。"
+      },
+      "id": "v000092",
+      "images": [
+        {
+          "id": "generated-v000092",
+          "src": "images/list02/v000092.webp",
+          "alt": "dropout: The program aims to help school dropouts return to education.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "48d6c29af9a41c5f2c27090364347543c7ca9b574d1b9e0d536db38e51379e09"
+    },
+    {
+      "word": "gymnasium",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/dʒɪmˈneɪziəm/",
+        "us": "/dʒɪmˈneɪziəm/"
+      },
+      "meaning": "体育馆；健身房",
+      "collocation": {
+        "en": "school gymnasium",
+        "zh": "学校体育馆"
+      },
+      "example": {
+        "en": "The graduation ceremony was held in the school gymnasium.",
+        "zh": "毕业典礼在学校体育馆举行。"
+      },
+      "id": "v000093",
+      "images": [
+        {
+          "id": "generated-v000093",
+          "src": "images/list02/v000093.webp",
+          "alt": "gymnasium: The graduation ceremony was held in the school gymnasium.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2573819719106d372ac017752a5762179c3e1415ed973d1ea976e63a91dccdfa"
+    },
+    {
+      "word": "recite",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/rɪˈsaɪt/",
+        "us": "/rɪˈsaɪt/"
+      },
+      "meaning": "背诵；朗诵",
+      "collocation": {
+        "en": "recite a poem",
+        "zh": "背诵诗歌"
+      },
+      "example": {
+        "en": "The student recited a poem in class.",
+        "zh": "学生在课堂上背诵了一首诗。"
+      },
+      "id": "v000094",
+      "images": [
+        {
+          "id": "generated-v000094",
+          "src": "images/list02/v000094.webp",
+          "alt": "recite: The student recited a poem in class.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "db184b32fac9a733ee2ba6ea63eee9a09b73a4c02b0863551dc40f16e18c4949"
+    },
+    {
+      "word": "semester",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/sɪˈmestə(r)/",
+        "us": "/sɪˈmestər/"
+      },
+      "meaning": "学期",
+      "collocation": {
+        "en": "spring semester",
+        "zh": "春季学期"
+      },
+      "example": {
+        "en": "The spring semester will begin in April.",
+        "zh": "春季学期将在四月开始。"
+      },
+      "id": "v000095",
+      "images": [
+        {
+          "id": "generated-v000095",
+          "src": "images/list02/v000095.webp",
+          "alt": "semester: The spring semester will begin in April.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c0e44d7eb4c9a112e1d64266ab57d31fc05d13cae53a50bcbf021033c8a5db07"
+    },
+    {
+      "word": "bound",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/baʊnd/",
+        "us": "/baʊnd/"
+      },
+      "meaning": "一定会；必然的",
+      "collocation": {
+        "en": "be bound to",
+        "zh": "一定会……"
+      },
+      "example": {
+        "en": "If you keep working hard, you are bound to improve.",
+        "zh": "如果继续努力，你一定会进步。"
+      },
+      "id": "v000096",
+      "images": [
+        {
+          "id": "generated-v000096",
+          "src": "images/list02/v000096.webp",
+          "alt": "bound: If you keep working hard, you are bound to improve.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "7862fff4d4e7c1646e182420dbd201fae346d5b76893a3ee24d7b25d132a5319"
+    },
+    {
+      "word": "bound",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/baʊnd/",
+        "us": "/baʊnd/"
+      },
+      "meaning": "开往……的",
+      "collocation": {
+        "en": "Tokyo-bound train",
+        "zh": "开往东京的列车"
+      },
+      "example": {
+        "en": "We boarded a Tokyo-bound train.",
+        "zh": "我们乘上了开往东京的列车。"
+      },
+      "id": "v000097",
+      "images": [
+        {
+          "id": "generated-v000097",
+          "src": "images/list02/v000097.webp",
+          "alt": "bound: We boarded a Tokyo-bound train.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "c22141ed90050873601df878a81553827dd200d6909991bf0ce8190287c68e31"
+    },
+    {
+      "word": "bound",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/baʊnd/",
+        "us": "/baʊnd/"
+      },
+      "meaning": "跳跃；快速前进",
+      "collocation": {
+        "en": "bound up the stairs",
+        "zh": "跳着上楼"
+      },
+      "example": {
+        "en": "The child bounded up the stairs excitedly.",
+        "zh": "孩子兴奋地跑上楼梯。"
+      },
+      "id": "v000098",
+      "images": [
+        {
+          "id": "generated-v000098",
+          "src": "images/list02/v000098.webp",
+          "alt": "bound: The child bounded up the stairs excitedly.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a68722e464d0085dd5328400bf3828016b244d02aabc2aa75a120002bc34bec3"
+    },
+    {
+      "word": "undertake",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˌʌndəˈteɪk/",
+        "us": "/ˌʌndərˈteɪk/"
+      },
+      "meaning": "承担；着手做",
+      "collocation": {
+        "en": "undertake a project",
+        "zh": "承担项目"
+      },
+      "example": {
+        "en": "The team will undertake a new cloud migration project.",
+        "zh": "团队将承担一项新的云迁移项目。"
+      },
+      "id": "v000099",
+      "images": [
+        {
+          "id": "generated-v000099",
+          "src": "images/list02/v000099.webp",
+          "alt": "undertake: The team will undertake a new cloud migration project.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3f85b770e40316c1bda880d8fca7f2bb724aeccf798bdb7bd00070d0a9162ac7"
+    },
+    {
+      "word": "bachelor",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈbætʃələ(r)/",
+        "us": "/ˈbætʃələr/"
+      },
+      "meaning": "单身男子；学士",
+      "collocation": {
+        "en": "bachelor's degree",
+        "zh": "学士学位"
+      },
+      "example": {
+        "en": "He has a bachelor's degree in computer science.",
+        "zh": "他拥有计算机科学学士学位。"
+      },
+      "id": "v000100",
+      "images": [
+        {
+          "id": "generated-v000100",
+          "src": "images/list02/v000100.webp",
+          "alt": "bachelor: He has a bachelor's degree in computer science.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "18a16ba3b6f6b472780815237f4d7a9bef1f479ac694210663c6014ff243f7d1"
     }
   ]
 }

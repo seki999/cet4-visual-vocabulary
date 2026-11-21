@@ -1,0 +1,1699 @@
+{
+  "id": "list03",
+  "title": "List 03",
+  "description": "CET-4 Vocabulary",
+  "items": [
+    {
+      "word": "blonde",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/blɒnd/",
+        "us": "/blɑːnd/"
+      },
+      "meaning": "金发的",
+      "collocation": {
+        "en": "blonde hair",
+        "zh": "金色头发"
+      },
+      "example": {
+        "en": "She has light blonde hair.",
+        "zh": "她有一头浅金色的头发。"
+      },
+      "id": "v000101",
+      "images": [
+        {
+          "id": "generated-v000101",
+          "src": "images/list03/v000101.webp",
+          "alt": "blonde: She has light blonde hair.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "0d0b720e13f700fcd6d8b32edf0a690bd6df73e2cb40a747d6fb0a46f39c6bee"
+    },
+    {
+      "word": "blonde",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/blɒnd/",
+        "us": "/blɑːnd/"
+      },
+      "meaning": "金发女子",
+      "collocation": {
+        "en": "a blonde woman",
+        "zh": "金发女子"
+      },
+      "example": {
+        "en": "A blonde woman entered the cafe.",
+        "zh": "一名金发女子走进了咖啡馆。"
+      },
+      "id": "v000102",
+      "images": [
+        {
+          "id": "generated-v000102",
+          "src": "images/list03/v000102.webp",
+          "alt": "blonde: A blonde woman entered the cafe.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "106903490b8dea02d50753ee9512e9c99279dfcd58ef6752690fbaee5e863c8b"
+    },
+    {
+      "word": "gang",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ɡæŋ/",
+        "us": "/ɡæŋ/"
+      },
+      "meaning": "帮派；一群人",
+      "collocation": {
+        "en": "street gang",
+        "zh": "街头帮派"
+      },
+      "example": {
+        "en": "Police are investigating a street gang.",
+        "zh": "警方正在调查一个街头帮派。"
+      },
+      "id": "v000103",
+      "images": [
+        {
+          "id": "generated-v000103",
+          "src": "images/list03/v000103.webp",
+          "alt": "gang: Police are investigating a street gang.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "de1653f8dd4c38c6e1df07f2c86087a849e0e0a4a71211d94f7ec27e3fa2b92c"
+    },
+    {
+      "word": "heroine",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈherəʊɪn/",
+        "us": "/ˈheroʊɪn/"
+      },
+      "meaning": "女英雄；女主角",
+      "collocation": {
+        "en": "the heroine of the story",
+        "zh": "故事的女主角"
+      },
+      "example": {
+        "en": "She is the heroine of the novel.",
+        "zh": "她是这部小说的女主角。"
+      },
+      "id": "v000104",
+      "images": [
+        {
+          "id": "generated-v000104",
+          "src": "images/list03/v000104.webp",
+          "alt": "heroine: She is the heroine of the novel.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "76abdb625f8564c91d6577eda395814eb696aa590027fbc4bf8e5cda1091e2d3"
+    },
+    {
+      "word": "lad",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/læd/",
+        "us": "/læd/"
+      },
+      "meaning": "男孩；小伙子（非正式）",
+      "collocation": {
+        "en": "young lad",
+        "zh": "年轻小伙子"
+      },
+      "example": {
+        "en": "The young lad offered to carry the elderly man's luggage.",
+        "zh": "那个年轻小伙子主动帮老人提行李。"
+      },
+      "id": "v000105",
+      "images": [
+        {
+          "id": "generated-v000105",
+          "src": "images/list03/v000105.webp",
+          "alt": "lad: The young lad offered to carry the elderly man's luggage.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "37e22cdca5a46afa0245a88b40e5956d999bfb6b26aea78cf2a4e3265590bae8"
+    },
+    {
+      "word": "lass",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/læs/",
+        "us": "/læs/"
+      },
+      "meaning": "女孩；姑娘（苏格兰/北英格兰用法）",
+      "collocation": {
+        "en": "young lass",
+        "zh": "年轻姑娘"
+      },
+      "example": {
+        "en": "The young lass works at a local shop.",
+        "zh": "那个年轻姑娘在当地商店工作。"
+      },
+      "id": "v000106",
+      "images": [
+        {
+          "id": "generated-v000106",
+          "src": "images/list03/v000106.webp",
+          "alt": "lass: The young lass works at a local shop.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "ce4cd61884f80b33654580293b5bae58c3c9ee67cf35e1ff9e17e6340711d5ca"
+    },
+    {
+      "word": "maiden",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈmeɪdn/",
+        "us": "/ˈmeɪdn/"
+      },
+      "meaning": "少女；未婚女子（文学/旧式）",
+      "collocation": {
+        "en": "young maiden",
+        "zh": "年轻少女"
+      },
+      "example": {
+        "en": "The story tells of the adventures of a young maiden.",
+        "zh": "故事讲述了一位年轻少女的冒险。"
+      },
+      "id": "v000107",
+      "images": [
+        {
+          "id": "generated-v000107",
+          "src": "images/list03/v000107.webp",
+          "alt": "maiden: The story tells of the adventures of a young maiden.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b466e44c0b2fd7b68ba28c58a613c856d15c00a7232f7bd588a2c7fcf77f9caa"
+    },
+    {
+      "word": "maiden",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈmeɪdn/",
+        "us": "/ˈmeɪdn/"
+      },
+      "meaning": "首次的；处女的",
+      "collocation": {
+        "en": "maiden voyage",
+        "zh": "首航"
+      },
+      "example": {
+        "en": "The ship will make its maiden voyage next month.",
+        "zh": "这艘船将在下月进行首航。"
+      },
+      "id": "v000108",
+      "images": [
+        {
+          "id": "generated-v000108",
+          "src": "images/list03/v000108.webp",
+          "alt": "maiden: The ship will make its maiden voyage next month.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "d5338a9687ff4f45ad6a09cbff53fec91295a0c36418b3fd84f9b65c4b32eadc"
+    },
+    {
+      "word": "widow",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈwɪdəʊ/",
+        "us": "/ˈwɪdoʊ/"
+      },
+      "meaning": "寡妇；遗孀",
+      "collocation": {
+        "en": "war widow",
+        "zh": "战争遗孀"
+      },
+      "example": {
+        "en": "The fund supports war widows and their families.",
+        "zh": "这项基金帮助战争遗孀及其家庭。"
+      },
+      "id": "v000109",
+      "images": [
+        {
+          "id": "generated-v000109",
+          "src": "images/list03/v000109.webp",
+          "alt": "widow: The fund supports war widows and their families.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f3b0aa92ddd8d410d98e4dbe17690da9987dcb328c6053a58666d8bf33e7c8ab"
+    },
+    {
+      "word": "interpersonal",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˌɪntəˈpɜːsənl/",
+        "us": "/ˌɪntərˈpɜːrsənl/"
+      },
+      "meaning": "人际的",
+      "collocation": {
+        "en": "interpersonal skills",
+        "zh": "人际交往能力"
+      },
+      "example": {
+        "en": "Good interpersonal skills are important for management roles.",
+        "zh": "良好的人际交往能力对管理岗位很重要。"
+      },
+      "id": "v000110",
+      "images": [
+        {
+          "id": "generated-v000110",
+          "src": "images/list03/v000110.webp",
+          "alt": "interpersonal: Good interpersonal skills are important for management roles.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "65f81a8f237af54a88db36fd8ef7130134392e4d9cb0e04f2ad85a3103c08314"
+    },
+    {
+      "word": "deficient",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/dɪˈfɪʃnt/",
+        "us": "/dɪˈfɪʃnt/"
+      },
+      "meaning": "不足的；缺乏的",
+      "collocation": {
+        "en": "deficient in",
+        "zh": "缺乏……"
+      },
+      "example": {
+        "en": "This diet is deficient in vitamins.",
+        "zh": "这种饮食缺乏维生素。"
+      },
+      "id": "v000111",
+      "images": [
+        {
+          "id": "generated-v000111",
+          "src": "images/list03/v000111.webp",
+          "alt": "deficient: This diet is deficient in vitamins.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3d35bf4c8dbc3429e6ee78b999bfe4e01f3328c6db3bbdb5dfcfc6ca52336666"
+    },
+    {
+      "word": "bang",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/bæŋ/",
+        "us": "/bæŋ/"
+      },
+      "meaning": "砰的一声；巨响",
+      "collocation": {
+        "en": "with a bang",
+        "zh": "砰的一声"
+      },
+      "example": {
+        "en": "The door closed with a bang.",
+        "zh": "门砰的一声关上了。"
+      },
+      "id": "v000112",
+      "images": [
+        {
+          "id": "generated-v000112",
+          "src": "images/list03/v000112.webp",
+          "alt": "bang: The door closed with a bang.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "70c904bea6bd70fb0671dfca339f4b99fe43b323278bf67746e24dafd9d3aa07"
+    },
+    {
+      "word": "bang",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/bæŋ/",
+        "us": "/bæŋ/"
+      },
+      "meaning": "猛敲；砰地撞",
+      "collocation": {
+        "en": "bang on the door",
+        "zh": "猛敲门"
+      },
+      "example": {
+        "en": "Someone was banging on the door outside.",
+        "zh": "有人在外面用力敲门。"
+      },
+      "id": "v000113",
+      "images": [
+        {
+          "id": "generated-v000113",
+          "src": "images/list03/v000113.webp",
+          "alt": "bang: Someone was banging on the door outside.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "a00346250b23af1e245de529a2a3a0caeb33aa32657dc26b8b725d81be3e86de"
+    },
+    {
+      "word": "parade",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/pəˈreɪd/",
+        "us": "/pəˈreɪd/"
+      },
+      "meaning": "游行；阅兵",
+      "collocation": {
+        "en": "military parade",
+        "zh": "阅兵式"
+      },
+      "example": {
+        "en": "A large military parade was held on the national holiday.",
+        "zh": "国庆日举行了大型阅兵式。"
+      },
+      "id": "v000114",
+      "images": [
+        {
+          "id": "generated-v000114",
+          "src": "images/list03/v000114.webp",
+          "alt": "parade: A large military parade was held on the national holiday.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "76a99cabafe0ac36b9266ee44e8a143b3749ea06b7c6f13c3d69e96b378d6782"
+    },
+    {
+      "word": "parade",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/pəˈreɪd/",
+        "us": "/pəˈreɪd/"
+      },
+      "meaning": "列队行进；展示",
+      "collocation": {
+        "en": "parade through",
+        "zh": "列队经过……"
+      },
+      "example": {
+        "en": "The celebration group paraded through the city center.",
+        "zh": "庆祝队伍穿过市中心。"
+      },
+      "id": "v000115",
+      "images": [
+        {
+          "id": "generated-v000115",
+          "src": "images/list03/v000115.webp",
+          "alt": "parade: The celebration group paraded through the city center.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "793b4e700333cd9f1f726e13d27aa929a36ba1236f3248e281a0bd31e56c16c7"
+    },
+    {
+      "word": "procession",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/prəˈseʃn/",
+        "us": "/prəˈseʃn/"
+      },
+      "meaning": "行列；游行队伍",
+      "collocation": {
+        "en": "funeral procession",
+        "zh": "送葬队伍"
+      },
+      "example": {
+        "en": "The funeral procession moved slowly through the streets.",
+        "zh": "送葬队伍缓慢穿过街道。"
+      },
+      "id": "v000116",
+      "images": [
+        {
+          "id": "generated-v000116",
+          "src": "images/list03/v000116.webp",
+          "alt": "procession: The funeral procession moved slowly through the streets.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "73f6200d7d4ad6a18b964e8908c15478eb6731482ae161c832423383e6ea0752"
+    },
+    {
+      "word": "riot",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈraɪət/",
+        "us": "/ˈraɪət/"
+      },
+      "meaning": "暴乱；骚乱",
+      "collocation": {
+        "en": "break out into a riot",
+        "zh": "爆发骚乱"
+      },
+      "example": {
+        "en": "The protest later developed into a riot.",
+        "zh": "抗议活动后来演变成了骚乱。"
+      },
+      "id": "v000117",
+      "images": [
+        {
+          "id": "generated-v000117",
+          "src": "images/list03/v000117.webp",
+          "alt": "riot: The protest later developed into a riot.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1bf4e0ecb7ef40a6ecf58430bad0d86f313ea6fb5a51fee3449d13925d8ecf24"
+    },
+    {
+      "word": "riot",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈraɪət/",
+        "us": "/ˈraɪət/"
+      },
+      "meaning": "参与骚乱",
+      "collocation": {
+        "en": "riot in the streets",
+        "zh": "在街头骚乱"
+      },
+      "example": {
+        "en": "Some people rioted in the streets.",
+        "zh": "一些人在街头参与骚乱。"
+      },
+      "id": "v000118",
+      "images": [
+        {
+          "id": "generated-v000118",
+          "src": "images/list03/v000118.webp",
+          "alt": "riot: Some people rioted in the streets.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9128a3ea7e1b08e6c4431ff857a2f2a6d460ee071417cba7d3883ad6b0ffbf2b"
+    },
+    {
+      "word": "siege",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/siːdʒ/",
+        "us": "/siːdʒ/"
+      },
+      "meaning": "围攻；包围",
+      "collocation": {
+        "en": "under siege",
+        "zh": "遭到围攻"
+      },
+      "example": {
+        "en": "The city remained under siege for several weeks.",
+        "zh": "这座城市被围困了数周。"
+      },
+      "id": "v000119",
+      "images": [
+        {
+          "id": "generated-v000119",
+          "src": "images/list03/v000119.webp",
+          "alt": "siege: The city remained under siege for several weeks.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "1c2aa3e5b3b604e56306e1a4ddd6eb3df9588ea6acfb966308102f1ac44a9739"
+    },
+    {
+      "word": "acute",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/əˈkjuːt/",
+        "us": "/əˈkjuːt/"
+      },
+      "meaning": "急性的；严重的",
+      "collocation": {
+        "en": "acute pain",
+        "zh": "剧烈疼痛"
+      },
+      "example": {
+        "en": "The patient developed acute chest pain.",
+        "zh": "患者出现了急性胸痛。"
+      },
+      "id": "v000120",
+      "images": [
+        {
+          "id": "generated-v000120",
+          "src": "images/list03/v000120.webp",
+          "alt": "acute: The patient developed acute chest pain.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "242be3138f935309d10101b62902f529fcb82bcb28de4b48b9c3371f2f9c7b97"
+    },
+    {
+      "word": "acute",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/əˈkjuːt/",
+        "us": "/əˈkjuːt/"
+      },
+      "meaning": "敏锐的；敏感的",
+      "collocation": {
+        "en": "acute awareness",
+        "zh": "敏锐意识"
+      },
+      "example": {
+        "en": "He has an acute awareness of security risks.",
+        "zh": "他对安全风险有很敏锐的认识。"
+      },
+      "id": "v000121",
+      "images": [
+        {
+          "id": "generated-v000121",
+          "src": "images/list03/v000121.webp",
+          "alt": "acute: He has an acute awareness of security risks.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bec59d22db9919b11cdcb83b9d9e4661c3fa6fd8d68aeaaee17763fd6f4be771"
+    },
+    {
+      "word": "fraudster",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfrɔːdstə(r)/",
+        "us": "/ˈfrɔːdstər/"
+      },
+      "meaning": "骗子；诈骗犯",
+      "collocation": {
+        "en": "online fraudster",
+        "zh": "网络诈骗犯"
+      },
+      "example": {
+        "en": "Police arrested an online fraudster.",
+        "zh": "警方抓获了一名网络诈骗犯。"
+      },
+      "id": "v000122",
+      "images": [
+        {
+          "id": "generated-v000122",
+          "src": "images/list03/v000122.webp",
+          "alt": "fraudster: Police arrested an online fraudster.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "22b03a33ba80a84e27d76231820fd651df0a31146a5b62a67fcde5db0c58d6a5"
+    },
+    {
+      "word": "villa",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈvɪlə/",
+        "us": "/ˈvɪlə/"
+      },
+      "meaning": "别墅；度假屋",
+      "collocation": {
+        "en": "luxury villa",
+        "zh": "豪华别墅"
+      },
+      "example": {
+        "en": "They rented a luxury villa by the sea.",
+        "zh": "他们在海边租了一栋豪华别墅。"
+      },
+      "id": "v000123",
+      "images": [
+        {
+          "id": "generated-v000123",
+          "src": "images/list03/v000123.webp",
+          "alt": "villa: They rented a luxury villa by the sea.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f972b8a05b8c69865a32bed2d826382b64d93e28441b98df5384361385d71132"
+    },
+    {
+      "word": "brag",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/bræɡ/",
+        "us": "/bræɡ/"
+      },
+      "meaning": "吹嘘；炫耀",
+      "collocation": {
+        "en": "brag about",
+        "zh": "吹嘘……"
+      },
+      "example": {
+        "en": "He is always bragging about his achievements.",
+        "zh": "他总喜欢炫耀自己的成绩。"
+      },
+      "id": "v000124",
+      "images": [
+        {
+          "id": "generated-v000124",
+          "src": "images/list03/v000124.webp",
+          "alt": "brag: He is always bragging about his achievements.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "08d02fd575853ffa581834abb32e02aeccaa09a292dad0562acd7ee3330bac87"
+    },
+    {
+      "word": "prevail",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/prɪˈveɪl/",
+        "us": "/prɪˈveɪl/"
+      },
+      "meaning": "获胜；占上风",
+      "collocation": {
+        "en": "prevail over",
+        "zh": "战胜……"
+      },
+      "example": {
+        "en": "In the end, reason prevailed over emotion.",
+        "zh": "最终理性战胜了情绪。"
+      },
+      "id": "v000125",
+      "images": [
+        {
+          "id": "generated-v000125",
+          "src": "images/list03/v000125.webp",
+          "alt": "prevail: In the end, reason prevailed over emotion.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "b3e99b920f01c986d039f1742629c59274dbc579ed5107f75be484a6bfc8a761"
+    },
+    {
+      "word": "prevail",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/prɪˈveɪl/",
+        "us": "/prɪˈveɪl/"
+      },
+      "meaning": "盛行；普遍存在",
+      "collocation": {
+        "en": "prevail in",
+        "zh": "在……中盛行"
+      },
+      "example": {
+        "en": "This practice prevailed at the time.",
+        "zh": "这种做法在当时十分普遍。"
+      },
+      "id": "v000126",
+      "images": [
+        {
+          "id": "generated-v000126",
+          "src": "images/list03/v000126.webp",
+          "alt": "prevail: This practice prevailed at the time.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bb7ac4d74ac0c7542d9b34ee1ba77c30fac190f17a37e47c9f4f007d092ee44f"
+    },
+    {
+      "word": "cognitive",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈkɒɡnətɪv/",
+        "us": "/ˈkɑːɡnətɪv/"
+      },
+      "meaning": "认知的",
+      "collocation": {
+        "en": "cognitive ability",
+        "zh": "认知能力"
+      },
+      "example": {
+        "en": "Lack of sleep can affect cognitive ability.",
+        "zh": "睡眠不足会影响认知能力。"
+      },
+      "id": "v000127",
+      "images": [
+        {
+          "id": "generated-v000127",
+          "src": "images/list03/v000127.webp",
+          "alt": "cognitive: Lack of sleep can affect cognitive ability.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3717ffa2fe426e27fd5b2267b0c26868fc375fff60e812232c7a64887fbb2289"
+    },
+    {
+      "word": "Confucian",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/kənˈfjuːʃən/",
+        "us": "/kənˈfjuːʃən/"
+      },
+      "meaning": "儒家的；孔子学说的",
+      "collocation": {
+        "en": "Confucian values",
+        "zh": "儒家价值观"
+      },
+      "example": {
+        "en": "The book discusses the influence of Confucian values on society.",
+        "zh": "这本书讨论了儒家价值观对社会的影响。"
+      },
+      "id": "v000128",
+      "images": [
+        {
+          "id": "generated-v000128",
+          "src": "images/list03/v000128.webp",
+          "alt": "Confucian: The book discusses the influence of Confucian values on society.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "81f39cd5f672ecc5a91dad082aef46169fc6acb6af423d176d998b17a0cb4323"
+    },
+    {
+      "word": "Confucian",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/kənˈfjuːʃən/",
+        "us": "/kənˈfjuːʃən/"
+      },
+      "meaning": "儒家学者；儒家信奉者",
+      "collocation": {
+        "en": "Confucian scholar",
+        "zh": "儒家学者"
+      },
+      "example": {
+        "en": "The Confucian scholar left behind many writings.",
+        "zh": "这位儒家学者留下了大量著作。"
+      },
+      "id": "v000129",
+      "images": [
+        {
+          "id": "generated-v000129",
+          "src": "images/list03/v000129.webp",
+          "alt": "Confucian: The Confucian scholar left behind many writings.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "11cac0e9753cefa4a0d7854e6a1656904f5d8d86c26df0ba0d5eb3152eac18a0"
+    },
+    {
+      "word": "fable",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfeɪbl/",
+        "us": "/ˈfeɪbl/"
+      },
+      "meaning": "寓言；寓言故事",
+      "collocation": {
+        "en": "Aesop's fables",
+        "zh": "伊索寓言"
+      },
+      "example": {
+        "en": "The children are reading Aesop's fables.",
+        "zh": "孩子们正在读伊索寓言。"
+      },
+      "id": "v000130",
+      "images": [
+        {
+          "id": "generated-v000130",
+          "src": "images/list03/v000130.webp",
+          "alt": "fable: The children are reading Aesop's fables.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "26b701bbc2a164694d356d825df7878330969449f9893c8314457975bb4b7a8f"
+    },
+    {
+      "word": "fairy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈfeəri/",
+        "us": "/ˈferi/"
+      },
+      "meaning": "仙女；小精灵",
+      "collocation": {
+        "en": "fairy tale",
+        "zh": "童话故事"
+      },
+      "example": {
+        "en": "The story sounds like a fairy tale.",
+        "zh": "这个故事听起来像童话一样。"
+      },
+      "id": "v000131",
+      "images": [
+        {
+          "id": "generated-v000131",
+          "src": "images/list03/v000131.webp",
+          "alt": "fairy: The story sounds like a fairy tale.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "25376c384a722b0e76595477ea48e2abda2f94146cfb446f9ae927ffc388bd3d"
+    },
+    {
+      "word": "delicate",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdelɪkət/",
+        "us": "/ˈdelɪkət/"
+      },
+      "meaning": "脆弱的；易碎的",
+      "collocation": {
+        "en": "delicate equipment",
+        "zh": "精密易损设备"
+      },
+      "example": {
+        "en": "Be careful when handling this delicate equipment.",
+        "zh": "搬运这些精密设备时要小心。"
+      },
+      "id": "v000132",
+      "images": [
+        {
+          "id": "generated-v000132",
+          "src": "images/list03/v000132.webp",
+          "alt": "delicate: Be careful when handling this delicate equipment.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "aa424925c743027b5196ab1662c664cb05681fb98690e260605342625661d989"
+    },
+    {
+      "word": "delicate",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdelɪkət/",
+        "us": "/ˈdelɪkət/"
+      },
+      "meaning": "微妙的；棘手的",
+      "collocation": {
+        "en": "delicate issue",
+        "zh": "敏感问题"
+      },
+      "example": {
+        "en": "This is a delicate issue that needs careful handling.",
+        "zh": "这是一个需要谨慎处理的敏感问题。"
+      },
+      "id": "v000133",
+      "images": [
+        {
+          "id": "generated-v000133",
+          "src": "images/list03/v000133.webp",
+          "alt": "delicate: This is a delicate issue that needs careful handling.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "87197984c8b452c25b7c872e251988ae344e80cbea3f006a16d7824b6569717a"
+    },
+    {
+      "word": "attorney",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/əˈtɜːni/",
+        "us": "/əˈtɜːrni/"
+      },
+      "meaning": "律师；代理人（尤指美式法律用语）",
+      "collocation": {
+        "en": "defense attorney",
+        "zh": "辩护律师"
+      },
+      "example": {
+        "en": "The defense attorney submitted new evidence to the court.",
+        "zh": "辩护律师向法庭提交了新的证据。"
+      },
+      "id": "v000134",
+      "images": [
+        {
+          "id": "generated-v000134",
+          "src": "images/list03/v000134.webp",
+          "alt": "attorney: The defense attorney submitted new evidence to the court.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "3999889fa00f0836e8b6e02f75362994a88ff96321875b96b008c13ac7ad042b"
+    },
+    {
+      "word": "broker",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈbrəʊkə(r)/",
+        "us": "/ˈbroʊkər/"
+      },
+      "meaning": "经纪人；中间商",
+      "collocation": {
+        "en": "stock broker",
+        "zh": "股票经纪人"
+      },
+      "example": {
+        "en": "He bought the shares through a stock broker.",
+        "zh": "他通过股票经纪人购买了这些股票。"
+      },
+      "id": "v000135",
+      "images": [
+        {
+          "id": "generated-v000135",
+          "src": "images/list03/v000135.webp",
+          "alt": "broker: He bought the shares through a stock broker.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "da32212f0c55e1e4b95a196cea8af286481819db92e923d92718dfd68a28fbc9"
+    },
+    {
+      "word": "broker",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/ˈbrəʊkə(r)/",
+        "us": "/ˈbroʊkər/"
+      },
+      "meaning": "促成；斡旋",
+      "collocation": {
+        "en": "broker a deal",
+        "zh": "促成交易"
+      },
+      "example": {
+        "en": "The two sides eventually reached an agreement after a third party brokered a deal.",
+        "zh": "双方最终在第三方斡旋下达成协议。"
+      },
+      "id": "v000136",
+      "images": [
+        {
+          "id": "generated-v000136",
+          "src": "images/list03/v000136.webp",
+          "alt": "broker: The two sides eventually reached an agreement after a third party brokered a deal.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "f932fe918486873488d914148e36cfc54bb2382647597b983720a559ecac4b71"
+    },
+    {
+      "word": "dean",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/diːn/",
+        "us": "/diːn/"
+      },
+      "meaning": "院长；系主任",
+      "collocation": {
+        "en": "dean of the faculty",
+        "zh": "学院院长"
+      },
+      "example": {
+        "en": "The dean of the faculty attended the graduation ceremony.",
+        "zh": "学院院长出席了毕业典礼。"
+      },
+      "id": "v000137",
+      "images": [
+        {
+          "id": "generated-v000137",
+          "src": "images/list03/v000137.webp",
+          "alt": "dean: The dean of the faculty attended the graduation ceremony.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "bf27e86f39bdd5d2f82480e97b1b024244f5644c3be211d8e39647cd91896075"
+    },
+    {
+      "word": "deputy",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈdepjuti/",
+        "us": "/ˈdepjuti/"
+      },
+      "meaning": "副职；代理人",
+      "collocation": {
+        "en": "deputy director",
+        "zh": "副主任"
+      },
+      "example": {
+        "en": "The deputy director will chair today's meeting.",
+        "zh": "副主任将主持今天的会议。"
+      },
+      "id": "v000138",
+      "images": [
+        {
+          "id": "generated-v000138",
+          "src": "images/list03/v000138.webp",
+          "alt": "deputy: The deputy director will chair today's meeting.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "e82903cf6c2c04a3a5b2a187dba454ee3aeca4db6e9ff4c1d167d21c825d4dfa"
+    },
+    {
+      "word": "deputy",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈdepjuti/",
+        "us": "/ˈdepjuti/"
+      },
+      "meaning": "副的；代理的",
+      "collocation": {
+        "en": "deputy manager",
+        "zh": "副经理"
+      },
+      "example": {
+        "en": "She currently works as a deputy manager.",
+        "zh": "她目前担任副经理。"
+      },
+      "id": "v000139",
+      "images": [
+        {
+          "id": "generated-v000139",
+          "src": "images/list03/v000139.webp",
+          "alt": "deputy: She currently works as a deputy manager.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "8a5d8bd090f72c3cbba71751b85174a245f7528b77137a9fc8778aeb9dd4da69"
+    },
+    {
+      "word": "hence",
+      "partOfSpeech": "adv.",
+      "ipa": {
+        "uk": "/hens/",
+        "us": "/hens/"
+      },
+      "meaning": "因此；由此",
+      "collocation": {
+        "en": "hence the need for",
+        "zh": "因此需要……"
+      },
+      "example": {
+        "en": "Costs are rising, hence the need for greater efficiency.",
+        "zh": "成本不断上升，因此需要提高效率。"
+      },
+      "id": "v000140",
+      "images": [
+        {
+          "id": "generated-v000140",
+          "src": "images/list03/v000140.webp",
+          "alt": "hence: Costs are rising, hence the need for greater efficiency.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "6a283f61ddb045981abaaf90aba68222a287c2cd7e7257531ad2e7828b159d74"
+    },
+    {
+      "word": "equitable",
+      "partOfSpeech": "adj.",
+      "ipa": {
+        "uk": "/ˈekwɪtəbl/",
+        "us": "/ˈekwɪtəbl/"
+      },
+      "meaning": "公平的；公正合理的",
+      "collocation": {
+        "en": "equitable distribution",
+        "zh": "公平分配"
+      },
+      "example": {
+        "en": "The company wants a more equitable distribution of bonuses.",
+        "zh": "公司希望建立更公平的奖金分配制度。"
+      },
+      "id": "v000141",
+      "images": [
+        {
+          "id": "generated-v000141",
+          "src": "images/list03/v000141.webp",
+          "alt": "equitable: The company wants a more equitable distribution of bonuses.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "80420442a7c9efaaab9ca578a01dfd82fef5c37bfde05d9944ff65f9a1f54cc6"
+    },
+    {
+      "word": "kettle",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˈketl/",
+        "us": "/ˈketl/"
+      },
+      "meaning": "水壶",
+      "collocation": {
+        "en": "electric kettle",
+        "zh": "电热水壶"
+      },
+      "example": {
+        "en": "I use an electric kettle to boil water for tea.",
+        "zh": "我用电热水壶烧水泡茶。"
+      },
+      "id": "v000142",
+      "images": [
+        {
+          "id": "generated-v000142",
+          "src": "images/list03/v000142.webp",
+          "alt": "kettle: I use an electric kettle to boil water for tea.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "008eea5454caeffbfaa7358579c751c671f1f778da392349a19f0caf28834f9c"
+    },
+    {
+      "word": "lid",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/lɪd/",
+        "us": "/lɪd/"
+      },
+      "meaning": "盖子；盖",
+      "collocation": {
+        "en": "put the lid on",
+        "zh": "盖上盖子"
+      },
+      "example": {
+        "en": "Please put the lid on the pot while the soup is cooking.",
+        "zh": "煮汤时请盖上锅盖。"
+      },
+      "id": "v000143",
+      "images": [
+        {
+          "id": "generated-v000143",
+          "src": "images/list03/v000143.webp",
+          "alt": "lid: Please put the lid on the pot while the soup is cooking.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "cd26876b066fe656618adfd40c02879c5f9ebc8488c6c348cf3f298c548893d9"
+    },
+    {
+      "word": "memorandum",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/ˌmeməˈrændəm/",
+        "us": "/ˌmeməˈrændəm/"
+      },
+      "meaning": "备忘录；书面说明",
+      "collocation": {
+        "en": "memorandum of understanding",
+        "zh": "谅解备忘录"
+      },
+      "example": {
+        "en": "The two companies signed a memorandum of understanding.",
+        "zh": "两家公司签署了一份谅解备忘录。"
+      },
+      "id": "v000144",
+      "images": [
+        {
+          "id": "generated-v000144",
+          "src": "images/list03/v000144.webp",
+          "alt": "memorandum: The two companies signed a memorandum of understanding.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "67d5dd58936f9d8b98983f129c4a4c1994ba8f1756110963a2f94a558354ce0e"
+    },
+    {
+      "word": "mug",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/mʌɡ/",
+        "us": "/mʌɡ/"
+      },
+      "meaning": "大杯；马克杯",
+      "collocation": {
+        "en": "coffee mug",
+        "zh": "咖啡杯"
+      },
+      "example": {
+        "en": "There is a coffee mug on the desk.",
+        "zh": "桌上放着一个咖啡杯。"
+      },
+      "id": "v000145",
+      "images": [
+        {
+          "id": "generated-v000145",
+          "src": "images/list03/v000145.webp",
+          "alt": "mug: There is a coffee mug on the desk.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "37aa19d17c78461f2ac52b4f815276f2ef58dd4cf20127ffa1a36f9ab9b97637"
+    },
+    {
+      "word": "mug",
+      "partOfSpeech": "v.",
+      "ipa": {
+        "uk": "/mʌɡ/",
+        "us": "/mʌɡ/"
+      },
+      "meaning": "抢劫（街头）",
+      "collocation": {
+        "en": "mug someone",
+        "zh": "抢劫某人"
+      },
+      "example": {
+        "en": "A tourist was mugged near the station.",
+        "zh": "游客在车站附近遭到抢劫。"
+      },
+      "id": "v000146",
+      "images": [
+        {
+          "id": "generated-v000146",
+          "src": "images/list03/v000146.webp",
+          "alt": "mug: A tourist was mugged near the station.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "2d014a7d659c7175fc5c054f2845002f80df467691b769a5c71978874d800b94"
+    },
+    {
+      "word": "rug",
+      "partOfSpeech": "n.",
+      "ipa": {
+        "uk": "/rʌɡ/",
+        "us": "/rʌɡ/"
+      },
+      "meaning": "小地毯；地垫",
+      "collocation": {
+        "en": "wool rug",
+        "zh": "羊毛地毯"
+      },
+      "example": {
+        "en": "There is a wool rug in the center of the living room.",
+        "zh": "客厅中央铺着一块羊毛地毯。"
+      },
+      "id": "v000147",
+      "images": [
+        {
+          "id": "generated-v000147",
+          "src": "images/list03/v000147.webp",
+          "alt": "rug: There is a wool rug in the center of the living room.",
+          "widthPercent": 100,
+          "height": 300,
+          "heightMode": "auto",
+          "aspectRatio": "original",
+          "objectFit": "contain",
+          "objectPosition": "center",
+          "rotation": 0,
+          "zoom": 1
+        }
+      ],
+      "tags": [],
+      "notes": "",
+      "sourceKey": "9f808585e2b8887daa1c50a5066e5430a571bb3125460b233e1618c379e0467a"
+    }
+  ]
+}
